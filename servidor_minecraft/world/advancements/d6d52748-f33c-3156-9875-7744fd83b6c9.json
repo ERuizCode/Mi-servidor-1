@@ -3272,5 +3272,71 @@
     },
     "done": true
   },
+  "another_furniture:recipes/pink_sofa": {
+    "criteria": {
+      "has_wool": "2024-12-17 22:08:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2024-12-17 22:10:54 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/pink_sleeping_bag": {
+    "criteria": {
+      "has_pink_wool": "2024-12-17 22:08:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2024-12-17 22:10:54 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/pink_bed": {
+    "criteria": {
+      "has_pink_wool": "2024-12-17 22:08:21 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/pink_curtain": {
+    "criteria": {
+      "has_wool": "2024-12-17 22:08:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_carpet": {
+    "criteria": {
+      "has_pink_wool": "2024-12-17 22:08:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_banner": {
+    "criteria": {
+      "has_pink_wool": "2024-12-17 22:08:21 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/pink_lamp": {
+    "criteria": {
+      "has_wool": "2024-12-17 22:08:21 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/pink_tall_stool": {
+    "criteria": {
+      "has_wool": "2024-12-17 22:08:21 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/pink_stool": {
+    "criteria": {
+      "has_wool": "2024-12-17 22:08:21 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3700
 }

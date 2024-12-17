@@ -151,3 +151,31 @@
 [17Dec2024 22:09:35.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades joined the game
 [17Dec2024 22:10:27.608] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: WillOfTheBlades lost connection: Disconnected
 [17Dec2024 22:10:27.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades left the game
+[17Dec2024 22:11:03.230] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: WillOfTheBlades[/127.160.8.50:51813] logged in with entity id 4360 at (-320.38390150337614, 63.0, 2422.6519961682025)
+[17Dec2024 22:11:03.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades joined the game
+[17Dec2024 22:12:03.359] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: WillOfTheBlades lost connection: Timed out
+[17Dec2024 22:12:03.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades left the game
+[17Dec2024 22:12:39.093] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: WillOfTheBlades[/127.160.8.50:43673] logged in with entity id 5095 at (-320.38390150337614, 63.0, 2422.6519961682025)
+[17Dec2024 22:12:39.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades joined the game
+[17Dec2024 22:15:39.413] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: WillOfTheBlades lost connection: Timed out
+[17Dec2024 22:15:39.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades left the game
+[17Dec2024 22:16:16.175] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: WillOfTheBlades[/127.160.8.50:52939] logged in with entity id 6442 at (-326.60093999952034, 63.0, 2421.268051988791)
+[17Dec2024 22:16:16.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades joined the game
+[17Dec2024 22:17:10.852] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/2957, l='ServerLevel[world]', x=-468.50, y=139.00, z=2895.50] died, message: 'Villager froze to death'
+[17Dec2024 22:18:31.407] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: WillOfTheBlades lost connection: Timed out
+[17Dec2024 22:18:31.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades left the game
+[17Dec2024 22:19:12.047] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/3356, l='ServerLevel[world]', x=-444.70, y=148.00, z=2932.50] died, message: 'Cleric froze to death'
+[17Dec2024 22:19:56.251] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/2996, l='ServerLevel[world]', x=-430.50, y=152.00, z=2944.30] died, message: 'Villager froze to death'
+[17Dec2024 22:20:17.995] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: WillOfTheBlades[/127.160.8.50:58543] logged in with entity id 7598 at (-315.5, 64.0, 2428.5)
+[17Dec2024 22:20:18.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades joined the game
+[17Dec2024 22:20:50.498] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/2936, l='ServerLevel[world]', x=-443.70, y=148.63, z=2931.50] died, message: 'Cleric froze to death'
+[17Dec2024 22:21:48.205] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: WillOfTheBlades lost connection: Timed out
+[17Dec2024 22:21:48.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades left the game
+[17Dec2024 22:24:53.098] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/9099, l='ServerLevel[world]', x=-455.51, y=154.00, z=2870.57] died, message: 'Villager froze to death'
+[17Dec2024 22:25:08.698] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/9130, l='ServerLevel[world]', x=-473.51, y=144.00, z=2868.50] died, message: 'Farmer froze to death'
+[17Dec2024 22:25:59.503] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: WillOfTheBlades[/127.160.8.50:45443] logged in with entity id 9544 at (-315.5, 64.0, 2428.5)
+[17Dec2024 22:25:59.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades joined the game
+[17Dec2024 22:28:59.801] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: WillOfTheBlades lost connection: Timed out
+[17Dec2024 22:28:59.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades left the game
+[17Dec2024 22:29:30.716] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: WillOfTheBlades[/127.160.8.50:36413] logged in with entity id 10432 at (-322.38436535641773, 63.0, 2423.3242244653366)
+[17Dec2024 22:29:30.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades joined the game
