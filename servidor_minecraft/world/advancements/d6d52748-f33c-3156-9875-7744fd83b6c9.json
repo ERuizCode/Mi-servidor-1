@@ -3278,23 +3278,11 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/decorated_pot_simple": {
-    "criteria": {
-      "has_brick": "2024-12-17 22:10:54 +0000"
-    },
-    "done": true
-  },
   "travelersbackpack:recipes/decorations/pink_sleeping_bag": {
     "criteria": {
       "has_pink_wool": "2024-12-17 22:08:21 +0000"
     },
     "done": true
-  },
-  "minecraft:adventure/salvage_sherd": {
-    "criteria": {
-      "has_sherd": "2024-12-17 22:10:54 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/decorations/pink_bed": {
     "criteria": {
@@ -3335,6 +3323,36 @@
   "another_furniture:recipes/pink_stool": {
     "criteria": {
       "has_wool": "2024-12-17 22:08:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2024-12-17 22:10:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2024-12-17 22:10:54 +0000"
+    },
+    "done": false
+  },
+  "energizedpower:recipes/smelting/tin_ingot_from_smelting_raw_tin": {
+    "criteria": {
+      "has_raw_tin": "2024-12-17 22:40:07 +0000"
+    },
+    "done": true
+  },
+  "energizedpower:recipes/crafting/raw_tin_block": {
+    "criteria": {
+      "has_raw_tin": "2024-12-17 22:40:07 +0000"
+    },
+    "done": true
+  },
+  "energizedpower:recipes/blasting/tin_ingot_from_blasting_raw_tin": {
+    "criteria": {
+      "has_raw_tin": "2024-12-17 22:40:07 +0000"
     },
     "done": true
   },

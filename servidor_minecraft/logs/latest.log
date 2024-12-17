@@ -195,3 +195,11 @@
 [17Dec2024 22:41:04.770] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: WillOfTheBlades lost connection: Timed out
 [17Dec2024 22:41:04.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades left the game
 [17Dec2024 22:41:04.850] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[17Dec2024 22:41:53.747] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cesarelm238 lost connection: Disconnected
+[17Dec2024 22:41:53.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesarelm238 left the game
+[17Dec2024 22:42:15.659] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Cesarelm238[/127.236.89.143:43435] logged in with entity id 13506 at (-862.903914346157, 54.0, 2999.4365358013924)
+[17Dec2024 22:42:15.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesarelm238 joined the game
+[17Dec2024 22:45:43.821] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: WillOfTheBlades[/127.160.8.50:54801] logged in with entity id 14291 at (-319.92293475807764, 63.875, 2427.198687041477)
+[17Dec2024 22:45:43.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades joined the game
+[17Dec2024 22:47:14.054] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: WillOfTheBlades lost connection: Timed out
+[17Dec2024 22:47:14.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades left the game
