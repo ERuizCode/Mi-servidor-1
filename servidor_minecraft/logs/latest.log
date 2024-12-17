@@ -1,105 +1,59 @@
-[16Dec2024 21:31:45.766] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server]
-[16Dec2024 21:31:45.768] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Microsoft OpenJDK 64-Bit Server VM 21.0.4+7-LTS
-[16Dec2024 21:31:45.769] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.1.2 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
-[16Dec2024 21:31:46.250] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
-[16Dec2024 21:31:46.419] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=jar:file:///workspaces/Mi-servidor-1/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar!/ Service=ModLauncher Env=SERVER
-[16Dec2024 21:31:47.105] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
-[16Dec2024 21:31:48.965] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[16Dec2024 21:31:49.019] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments []
-[16Dec2024 21:31:51.003] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.properties file on the classpath: [jar:file:///workspaces/Mi-servidor-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/workspaces/Mi-servidor-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/workspaces/Mi-servidor-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:///workspaces/Mi-servidor-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/workspaces/Mi-servidor-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/workspaces/Mi-servidor-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:///workspaces/Mi-servidor-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/workspaces/Mi-servidor-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/workspaces/Mi-servidor-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:///workspaces/Mi-servidor-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/workspaces/Mi-servidor-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/workspaces/Mi-servidor-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties]
-[16Dec2024 21:31:51.276] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath: [jar:file:///workspaces/Mi-servidor-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/workspaces/Mi-servidor-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/workspaces/Mi-servidor-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:///workspaces/Mi-servidor-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/workspaces/Mi-servidor-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/workspaces/Mi-servidor-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:///workspaces/Mi-servidor-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/workspaces/Mi-servidor-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/workspaces/Mi-servidor-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:///workspaces/Mi-servidor-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/workspaces/Mi-servidor-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/workspaces/Mi-servidor-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties]
-[16Dec2024 21:32:00.416] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 49.1.4, for MC 1.20.4 with MCP 20231207.112700
-[16Dec2024 21:32:00.419] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v49.1.4 Initialized
-[16Dec2024 21:32:00.482] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
-[16Dec2024 21:32:00.656] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 7.64.
-[16Dec2024 21:32:04.459] [main/INFO] [journeymap/]: Initializing Packet Registries
-[16Dec2024 21:32:04.872] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [simplyharvesting] Starting version check at https://assets.melanx.de/updates/simply-harvesting.json
-[16Dec2024 21:32:05.696] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [simplyharvesting] Found status: BETA Current: 1.20-2.0.0 Target: null
-[16Dec2024 21:32:05.696] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[16Dec2024 21:32:05.738] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 8.6.4 Target: null
-[16Dec2024 21:32:05.739] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [catalogue] Starting version check at https://mrcrayfish.com/modupdatejson?id=catalogue&loader=forge
-[16Dec2024 21:32:06.213] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [catalogue] Found status: BETA Current: 1.9.1 Target: 1.9.1
-[16Dec2024 21:32:06.213] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
-[16Dec2024 21:32:06.570] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA Current: 0.7.12 Target: 0.7.12
-[16Dec2024 21:32:06.571] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[16Dec2024 21:32:06.688] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 49.1.4 Target: 49.1.13
-[16Dec2024 21:32:06.690] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[16Dec2024 21:32:06.791] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.0 Target: null
-[16Dec2024 21:32:09.374] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[16Dec2024 21:32:17.687] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 8 recipes
-[16Dec2024 21:32:18.309] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1769 advancements
-[16Dec2024 21:32:20.523] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.4
-[16Dec2024 21:32:20.523] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[16Dec2024 21:32:20.524] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[16Dec2024 21:32:20.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[16Dec2024 21:32:20.865] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[16Dec2024 21:32:21.105] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[16Dec2024 21:32:21.229] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[16Dec2024 21:32:21.230] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[16Dec2024 21:32:21.231] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[16Dec2024 21:32:21.231] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[16Dec2024 21:32:21.267] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[16Dec2024 21:32:21.274] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[16Dec2024 21:32:21.310] [Server thread/INFO] [Framework/]: Loading server configs...
-[16Dec2024 21:32:21.405] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[16Dec2024 21:32:21.654] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/127.233.87.27:37533] Disconnecting MODDED connection attempt: Server is still starting! Please wait before reconnecting.
-[16Dec2024 21:32:21.656] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/127.233.87.27:58589] Disconnecting MODDED connection attempt: Server is still starting! Please wait before reconnecting.
-[16Dec2024 21:32:27.733] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/127.233.87.27:34863] Disconnecting MODDED connection attempt: Server is still starting! Please wait before reconnecting.
-[16Dec2024 21:32:34.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[16Dec2024 21:32:42.158] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Dec2024 21:32:42.163] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Dec2024 21:32:42.166] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Dec2024 21:32:42.169] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Dec2024 21:32:42.173] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Dec2024 21:32:42.179] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Dec2024 21:32:42.184] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Dec2024 21:32:42.192] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Dec2024 21:32:42.195] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Dec2024 21:32:42.199] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Dec2024 21:32:42.203] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Dec2024 21:32:42.206] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Dec2024 21:32:42.208] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Dec2024 21:32:42.211] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Dec2024 21:32:42.215] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Dec2024 21:32:42.217] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Dec2024 21:32:42.220] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Dec2024 21:32:42.543] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Dec2024 21:32:43.043] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Dec2024 21:32:43.543] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Dec2024 21:32:44.048] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Dec2024 21:32:44.542] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Dec2024 21:32:45.351] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 11309 ms
-[16Dec2024 21:32:45.353] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (24.108s)! For help, type "help"
-[16Dec2024 21:32:45.407] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[16Dec2024 21:33:19.655] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Cesarelm238[/127.233.87.27:34765] logged in with entity id 234 at (-8.5, 71.0, -50.5)
-[16Dec2024 21:33:19.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesarelm238 joined the game
-[16Dec2024 21:33:19.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesarelm238 has made the advancement [Christmas]
-[16Dec2024 21:33:53.713] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [waystones:network] rejected their client side version number
-[16Dec2024 21:33:53.716] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Terminating connection with client, mismatched channel list
-[16Dec2024 21:33:53.748] [Server thread/INFO] [net.minecraft.server.network.ServerConfigurationPacketListenerImpl/]: com.mojang.authlib.GameProfile@2a96fd3a[id=f283b162-b475-30ed-b80a-cd139a2a4d70,name=WillOfTheBlades,properties={}] lost connection: Connection closed - mismatched mod channel list
-[16Dec2024 21:33:59.579] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [waystones:network] rejected their client side version number
-[16Dec2024 21:33:59.579] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Terminating connection with client, mismatched channel list
-[16Dec2024 21:33:59.618] [Server thread/INFO] [net.minecraft.server.network.ServerConfigurationPacketListenerImpl/]: com.mojang.authlib.GameProfile@36e0be5c[id=f283b162-b475-30ed-b80a-cd139a2a4d70,name=WillOfTheBlades,properties={}] lost connection: Connection closed - mismatched mod channel list
-[16Dec2024 21:35:18.618] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: WillOfTheBlades[/127.160.8.50:59569] logged in with entity id 579 at (-5.5, 66.0, -55.5)
-[16Dec2024 21:35:18.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades joined the game
-[16Dec2024 21:35:18.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades has made the advancement [Christmas]
-[16Dec2024 21:35:18.916] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cesarelm238 lost connection: Disconnected
-[16Dec2024 21:35:18.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesarelm238 left the game
-[16Dec2024 21:35:36.958] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Cesarelm238[/127.233.87.27:51951] logged in with entity id 622 at (-1.9078845345001147, 69.0, -47.49840716393128)
-[16Dec2024 21:35:36.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesarelm238 joined the game
-[16Dec2024 21:35:37.455] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: WillOfTheBlades lost connection: Disconnected
-[16Dec2024 21:35:37.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades left the game
-[16Dec2024 21:36:52.445] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: WillOfTheBlades[/127.160.8.50:44219] logged in with entity id 824 at (-14.277005522952933, 71.0, -36.38441302786257)
-[16Dec2024 21:36:52.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades joined the game
-[16Dec2024 21:36:52.856] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cesarelm238 lost connection: Disconnected
-[16Dec2024 21:36:52.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesarelm238 left the game
-[16Dec2024 21:37:01.191] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Cesarelm238[/127.233.87.27:38533] logged in with entity id 851 at (2.530708893222789, 73.0, -21.406177189021218)
-[16Dec2024 21:37:01.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesarelm238 joined the game
-[16Dec2024 21:37:01.811] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: WillOfTheBlades lost connection: Disconnected
-[16Dec2024 21:37:01.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades left the game
-[16Dec2024 21:37:20.461] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cesarelm238 lost connection: Disconnected
-[16Dec2024 21:37:20.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesarelm238 left the game
-[16Dec2024 21:37:33.064] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Cesarelm238[/127.233.87.27:51861] logged in with entity id 918 at (1.515453038893713, 73.0, -26.348767168661492)
-[16Dec2024 21:37:33.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesarelm238 joined the game
-[16Dec2024 21:40:13.655] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cesarelm238 lost connection: Disconnected
-[16Dec2024 21:40:13.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesarelm238 left the game
+[17Dec2024 00:00:51.998] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2774ms or 55 ticks behind
+[17Dec2024 00:01:13.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WillOfTheBlades> [name:"Muerte 17:48:34 12-16-2024", x:-918, y:56, z:1100, dim:minecraft:overworld]
+[17Dec2024 00:01:36.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesarelm238> [name:"BIOMA PANDAS", x:-1212, y:85, z:1399, dim:minecraft:overworld]
+[17Dec2024 00:05:01.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WillOfTheBlades> [x:-1106, y:99, z:1991, dim:minecraft:overworld]
+[17Dec2024 00:05:28.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades has made the advancement [Isn't It Iron Pick]
+[17Dec2024 00:05:59.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesarelm238 has made the advancement [Ice Bucket Challenge]
+[17Dec2024 00:11:28.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesarelm238> [name:"NIEVE", x:-917, y:137, z:2242, dim:minecraft:overworld]
+[17Dec2024 00:13:53.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesarelm238 has made the advancement [Knowledge of Death]
+[17Dec2024 00:13:53.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesarelm238 has made the advancement [Ashes 'n Bones]
+[17Dec2024 00:15:27.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades has made the advancement [Not Today, Thank You]
+[17Dec2024 00:16:50.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesarelm238 has made the advancement [Quickly Applied]
+[17Dec2024 00:29:21.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades has made the advancement [Diamonds!]
+[17Dec2024 00:30:59.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesarelm238 has reached the goal [Strong or Careful]
+[17Dec2024 00:30:59.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesarelm238 fell from a high place
+[17Dec2024 00:30:59.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesarelm238 has made the advancement [Your First Grave]
+[17Dec2024 00:30:59.680] [Server thread/INFO] [tombstone/]: The player Cesarelm238 has successfully been saved
+[17Dec2024 00:31:02.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesarelm238 has made the advancement [The Most Useful Key]
+[17Dec2024 00:32:05.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesarelm238 has reached the goal [Here They Come]
+[17Dec2024 00:34:41.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesarelm238 has made the advancement [Sneak 100]
+[17Dec2024 00:47:34.446] [Server thread/INFO] [naturescompass/]: Starting search: 64 sample space, 50000 max samples, 10000 max radius
+[17Dec2024 00:47:38.660] [Server thread/INFO] [naturescompass/]: Search failed: 10001 radius, 24532 samples
+[17Dec2024 00:47:45.667] [Server thread/INFO] [naturescompass/]: Starting search: 64 sample space, 50000 max samples, 10000 max radius
+[17Dec2024 00:47:45.889] [Server thread/INFO] [naturescompass/]: Search succeeded: 1846 radius, 1216 samples
+[17Dec2024 00:47:52.184] [Server thread/INFO] [naturescompass/]: Starting search: 64 sample space, 50000 max samples, 10000 max radius
+[17Dec2024 00:47:52.468] [Server thread/INFO] [naturescompass/]: Search succeeded: 2112 radius, 1438 samples
+[17Dec2024 00:48:03.837] [Server thread/INFO] [naturescompass/]: Starting search: 64 sample space, 50000 max samples, 10000 max radius
+[17Dec2024 00:48:08.093] [Server thread/INFO] [naturescompass/]: Search failed: 10001 radius, 24532 samples
+[17Dec2024 00:48:15.583] [Server thread/INFO] [naturescompass/]: Starting search: 64 sample space, 50000 max samples, 10000 max radius
+[17Dec2024 00:48:19.443] [Server thread/INFO] [naturescompass/]: Search succeeded: 8167 radius, 23260 samples
+[17Dec2024 00:48:36.964] [Server thread/INFO] [naturescompass/]: Starting search: 64 sample space, 50000 max samples, 10000 max radius
+[17Dec2024 00:48:36.983] [Server thread/INFO] [naturescompass/]: Search succeeded: 143 radius, 5 samples
+[17Dec2024 00:48:54.590] [Server thread/INFO] [naturescompass/]: Starting search: 64 sample space, 50000 max samples, 10000 max radius
+[17Dec2024 00:48:55.123] [Server thread/INFO] [naturescompass/]: Search succeeded: 1833 radius, 1235 samples
+[17Dec2024 00:49:39.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades has made the advancement [Sneak 100]
+[17Dec2024 00:55:20.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesarelm238> [name:"MINA MAMALONA", x:-591, y:46, z:2403, dim:minecraft:overworld]
+[17Dec2024 01:06:31.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WillOfTheBlades> [x:-1567, y:64, z:982, dim:minecraft:overworld]
+[17Dec2024 01:07:01.935] [Server thread/INFO] [naturescompass/]: Starting search: 64 sample space, 50000 max samples, 10000 max radius
+[17Dec2024 01:07:02.047] [Server thread/INFO] [naturescompass/]: Search succeeded: 1049 radius, 327 samples
+[17Dec2024 01:12:58.433] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-327, y=65, z=2428} BlockPos{x=-328, y=64, z=2428}
+[17Dec2024 01:21:48.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades has made the advancement [Ambush]
+[17Dec2024 01:31:41.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades has made the advancement [The Parrots and the Bats]
+[17Dec2024 01:33:03.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades has made the advancement [Quickly Applied]
+[17Dec2024 01:33:14.533] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cesarelm238 lost connection: Disconnected
+[17Dec2024 01:33:14.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesarelm238 left the game
+[17Dec2024 01:33:31.579] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: WillOfTheBlades lost connection: Disconnected
+[17Dec2024 01:33:31.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades left the game
+[17Dec2024 01:34:58.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[17Dec2024 01:34:58.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[17Dec2024 01:34:58.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[17Dec2024 01:34:58.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[17Dec2024 01:34:59.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17Dec2024 01:34:59.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17Dec2024 01:34:59.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17Dec2024 01:34:59.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17Dec2024 01:34:59.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17Dec2024 01:34:59.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17Dec2024 01:34:59.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[17Dec2024 01:34:59.358] [Server thread/INFO] [Framework/]: Unloading server configs...
+[17Dec2024 01:34:59.359] [Server thread/INFO] [Framework/]: Finished unloading server configs
