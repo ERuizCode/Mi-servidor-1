@@ -576,7 +576,8 @@
       "minecraft:spider": "2024-12-16 23:25:11 +0000",
       "minecraft:wither_skeleton": "2024-12-17 07:18:18 +0000",
       "minecraft:zombie": "2024-12-16 23:12:07 +0000",
-      "minecraft:creeper": "2024-12-17 00:38:06 +0000"
+      "minecraft:creeper": "2024-12-17 00:38:06 +0000",
+      "minecraft:slime": "2024-12-17 23:15:39 +0000"
     },
     "done": false
   },
@@ -3353,6 +3354,24 @@
   "energizedpower:recipes/blasting/tin_ingot_from_blasting_raw_tin": {
     "criteria": {
       "has_raw_tin": "2024-12-17 22:40:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2024-12-17 23:15:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-12-17 23:15:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2024-12-17 23:15:41 +0000"
     },
     "done": true
   },
