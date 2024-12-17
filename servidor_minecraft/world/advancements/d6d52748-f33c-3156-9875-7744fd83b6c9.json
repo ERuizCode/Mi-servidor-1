@@ -3176,6 +3176,30 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_strange_tablet": {
+    "criteria": {
+      "has_strange_tablet": "2024-12-17 21:24:08 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cow": {
+    "criteria": {
+      "has_milk_bucket": "2024-12-17 21:24:22 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2024-12-17 21:25:09 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_cupidity": {
+    "criteria": {
+      "coded_trigger": "2024-12-17 21:27:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2024-12-17 21:33:29 +0000"
@@ -3188,12 +3212,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/voluntary_exile": {
-    "criteria": {
-      "voluntary_exile": "2024-12-17 21:47:56 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2024-12-17 21:33:29 +0000"
@@ -3203,12 +3221,6 @@
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-17 21:33:29 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/create_magic_tablet": {
-    "criteria": {
-      "has_magic_tablet": "2024-12-17 21:25:09 +0000"
     },
     "done": true
   },
@@ -3248,27 +3260,15 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/cow": {
-    "criteria": {
-      "has_milk_bucket": "2024-12-17 21:24:22 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2024-12-17 21:33:29 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/use_cupidity": {
+  "minecraft:adventure/voluntary_exile": {
     "criteria": {
-      "coded_trigger": "2024-12-17 21:27:40 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/create_strange_tablet": {
-    "criteria": {
-      "has_strange_tablet": "2024-12-17 21:24:08 +0000"
+      "voluntary_exile": "2024-12-17 21:47:56 +0000"
     },
     "done": true
   },
