@@ -193,3 +193,17 @@
 [17Dec2024 21:20:33.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades left the game
 [17Dec2024 21:21:16.192] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: WillOfTheBlades[/127.160.8.50:50411] logged in with entity id 12639 at (-331.7089141768639, 63.0, 2427.193386343211)
 [17Dec2024 21:21:16.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades joined the game
+[17Dec2024 21:21:50.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades was killed
+[17Dec2024 21:21:50.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [WillOfTheBlades: Killed WillOfTheBlades]
+[17Dec2024 21:21:50.348] [Server thread/INFO] [tombstone/]: The player WillOfTheBlades has successfully been saved
+[17Dec2024 21:22:46.458] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: WillOfTheBlades lost connection: Timed out
+[17Dec2024 21:22:46.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades left the game
+[17Dec2024 21:23:09.955] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: WillOfTheBlades[/127.160.8.50:55581] logged in with entity id 12908 at (-325.38773087018626, 65.12720334025373, 2424.8888618622386)
+[17Dec2024 21:23:09.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades joined the game
+[17Dec2024 21:24:08.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesarelm238 has made the advancement [Not of Chocolate]
+[17Dec2024 21:24:55.210] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: WillOfTheBlades lost connection: Timed out
+[17Dec2024 21:24:55.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades left the game
+[17Dec2024 21:25:09.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesarelm238 has made the advancement [Where Is The Stone Pen?]
+[17Dec2024 21:25:57.995] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: WillOfTheBlades[/127.160.8.50:51475] logged in with entity id 13268 at (-325.38773087018626, 65.12720334025373, 2424.8888618622386)
+[17Dec2024 21:25:58.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades joined the game
+[17Dec2024 21:27:40.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesarelm238 has reached the goal [Greed may lead to loss]
