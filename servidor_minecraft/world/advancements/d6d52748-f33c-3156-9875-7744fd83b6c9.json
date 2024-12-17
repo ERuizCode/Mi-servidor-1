@@ -2028,7 +2028,8 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "minecraft:cow": "2024-12-17 05:06:26 +0000"
+      "minecraft:cow": "2024-12-17 05:06:26 +0000",
+      "minecraft:chicken": "2024-12-17 21:03:04 +0000"
     },
     "done": false
   },
@@ -3115,6 +3116,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/strange_mount": {
+    "criteria": {
+      "has_skeleton_receptacle": "2024-12-17 08:06:03 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/mutual_aid": {
     "criteria": {
       "coded_trigger": "2024-12-17 08:08:21 +0000"
@@ -3127,9 +3134,45 @@
     },
     "done": true
   },
-  "tombstone:adventure/strange_mount": {
+  "travelersbackpack:recipes/misc/creeper": {
     "criteria": {
-      "has_skeleton_receptacle": "2024-12-17 08:06:03 +0000"
+      "has_gunpowder": "2024-12-17 20:58:15 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/cherry_shutter": {
+    "criteria": {
+      "has_slab": "2024-12-17 20:38:26 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/consume_soul": {
+    "criteria": {
+      "coded_trigger": "2024-12-17 20:49:02 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/cherry_bench": {
+    "criteria": {
+      "has_slab": "2024-12-17 20:38:26 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/cherry_flower_box": {
+    "criteria": {
+      "has_slab": "2024-12-17 20:38:26 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/new_path": {
+    "criteria": {
+      "coded_trigger": "2024-12-17 20:49:02 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_white_marble": {
+    "criteria": {
+      "has_ingredient": "2024-12-17 20:52:13 +0000"
     },
     "done": true
   },
