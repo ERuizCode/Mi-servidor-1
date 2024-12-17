@@ -3226,3 +3226,9 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [17Dec2024 21:36:40.795] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [17Dec2024 21:41:40.806] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [17Dec2024 21:41:40.828] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Dec2024 21:46:40.769] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Dec2024 21:46:40.776] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Dec2024 21:47:56.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesarelm238 has made the advancement [Voluntary Exile]
+[17Dec2024 21:50:23.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades has reached the goal [Fortuitous Militia]
+[17Dec2024 21:51:40.799] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Dec2024 21:51:40.807] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
