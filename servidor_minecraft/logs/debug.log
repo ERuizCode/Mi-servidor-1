@@ -4170,3 +4170,152 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [17Dec2024 23:31:43.760] [Netty Epoll Server IO #1/DEBUG] [Framework/FRAMEWORK_CONFIGURATION]: Received acknowledgement from client
 [17Dec2024 23:31:45.074] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: WillOfTheBlades[/127.160.8.50:33627] logged in with entity id 26301 at (-323.4921433020402, 64.0, 2437.630995221344)
 [17Dec2024 23:31:45.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades joined the game
+[17Dec2024 23:32:07.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesarelm238 has reached the goal [Enchanted Bundle]
+[17Dec2024 23:32:15.023] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-327, y=64, z=2437} BlockPos{x=-325, y=63, z=2436}
+[17Dec2024 23:33:19.705] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: WillOfTheBlades lost connection: Disconnected
+[17Dec2024 23:33:19.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades left the game
+[17Dec2024 23:34:10.899] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cesarelm238 lost connection: Disconnected
+[17Dec2024 23:34:10.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesarelm238 left the game
+[17Dec2024 23:35:04.104] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received client connection with modlist [another_furniture, balm, bosses_of_mass_destruction, catalogue, cerbons_api, cloth_config, collective, configlibtxf, craftable_saddles, easyanvils, enchantinginfuser, energizedpower, fantasy_armor, fantasy_weapons, forge, forgeconfigapiport, framework, geckolib, healthindicatortxf, hopo, hopour, jei, journeymap, minecraft, mixinextras, moretotems, naturescompass, puzzleslib, simplyharvesting, terralith, tlskincape, tombstone, travelersbackpack, treeharvester, waystones]
+[17Dec2024 23:35:04.300] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received client connection with channels [bosses_of_mass_destruction:blindness, bosses_of_mass_destruction:change_hitbox, bosses_of_mass_destruction:charged_ender_pearl, bosses_of_mass_destruction:heal, bosses_of_mass_destruction:obsidilith_revive, bosses_of_mass_destruction:place, bosses_of_mass_destruction:send_delta_movement, bosses_of_mass_destruction:send_particle, bosses_of_mass_destruction:send_vec3, bosses_of_mass_destruction:spike, bosses_of_mass_destruction:void_blossom_revive, cerbons_api:packets, easyanvils:main, enchantinginfuser:main, energizedpower:messages, forge:handshake, forge:login, forge:tier_sorting, framework:configuration, framework:play, geckolib:main, jei:channel, journeymap:admin_req, journeymap:admin_save, journeymap:common, journeymap:mp_options_req, journeymap:perm_req, journeymap:player_loc, journeymap:teleport_req, journeymap:version, journeymap:waypoint, minecraft:register, minecraft:tombstone_channel, minecraft:unregister, naturescompass:naturescompass, puzzleslib:main, travelersbackpack:network, waystones:network, worldinfo:world_id]
+[17Dec2024 23:35:04.300] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:tombstone_channel' : Version test of 'PRESENT 864' from client : ACCEPTED
+[17Dec2024 23:35:04.300] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jei:channel' : Version test of 'PRESENT 2' from client : ACCEPTED
+[17Dec2024 23:35:04.300] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'PRESENT 0' from client : ACCEPTED
+[17Dec2024 23:35:04.300] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'bosses_of_mass_destruction:send_vec3' : Version test of 'PRESENT 1' from client : ACCEPTED
+[17Dec2024 23:35:04.300] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'energizedpower:messages' : Version test of 'PRESENT 1' from client : ACCEPTED
+[17Dec2024 23:35:04.300] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:play' : Version test of 'PRESENT 1' from client : ACCEPTED
+[17Dec2024 23:35:04.300] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'travelersbackpack:network' : Version test of 'PRESENT 1' from client : ACCEPTED
+[17Dec2024 23:35:04.300] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'bosses_of_mass_destruction:void_blossom_revive' : Version test of 'PRESENT 1' from client : ACCEPTED
+[17Dec2024 23:35:04.300] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'bosses_of_mass_destruction:place' : Version test of 'PRESENT 1' from client : ACCEPTED
+[17Dec2024 23:35:04.300] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:configuration' : Version test of 'PRESENT 1' from client : ACCEPTED
+[17Dec2024 23:35:04.300] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'bosses_of_mass_destruction:obsidilith_revive' : Version test of 'PRESENT 1' from client : ACCEPTED
+[17Dec2024 23:35:04.300] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'bosses_of_mass_destruction:change_hitbox' : Version test of 'PRESENT 1' from client : ACCEPTED
+[17Dec2024 23:35:04.300] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'bosses_of_mass_destruction:send_delta_movement' : Version test of 'PRESENT 1' from client : ACCEPTED
+[17Dec2024 23:35:04.300] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cerbons_api:packets' : Version test of 'PRESENT 1' from client : ACCEPTED
+[17Dec2024 23:35:04.300] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of 'PRESENT 1' from client : ACCEPTED
+[17Dec2024 23:35:04.300] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'bosses_of_mass_destruction:heal' : Version test of 'PRESENT 1' from client : ACCEPTED
+[17Dec2024 23:35:04.301] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'bosses_of_mass_destruction:send_particle' : Version test of 'PRESENT 1' from client : ACCEPTED
+[17Dec2024 23:35:04.301] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:handshake' : Version test of 'PRESENT 0' from client : ACCEPTED
+[17Dec2024 23:35:04.301] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:login' : Version test of 'PRESENT 0' from client : ACCEPTED
+[17Dec2024 23:35:04.301] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'naturescompass:naturescompass' : Version test of 'PRESENT 1' from client : ACCEPTED
+[17Dec2024 23:35:04.301] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'bosses_of_mass_destruction:spike' : Version test of 'PRESENT 1' from client : ACCEPTED
+[17Dec2024 23:35:04.301] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'enchantinginfuser:main' : Version test of 'PRESENT 0' from client : ACCEPTED
+[17Dec2024 23:35:04.301] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'puzzleslib:main' : Version test of 'PRESENT 0' from client : ACCEPTED
+[17Dec2024 23:35:04.301] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'bosses_of_mass_destruction:charged_ender_pearl' : Version test of 'PRESENT 1' from client : ACCEPTED
+[17Dec2024 23:35:04.301] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'bosses_of_mass_destruction:blindness' : Version test of 'PRESENT 1' from client : ACCEPTED
+[17Dec2024 23:35:04.301] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'PRESENT 0' from client : ACCEPTED
+[17Dec2024 23:35:04.301] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib:main' : Version test of 'PRESENT 0' from client : ACCEPTED
+[17Dec2024 23:35:04.301] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'waystones:network' : Version test of 'PRESENT 0' from client : ACCEPTED
+[17Dec2024 23:35:04.301] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'easyanvils:main' : Version test of 'PRESENT 0' from client : ACCEPTED
+[17Dec2024 23:35:04.301] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[17Dec2024 23:35:04.501] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 0 from client
+[17Dec2024 23:35:04.698] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 1 from client
+[17Dec2024 23:35:04.897] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 2 from client
+[17Dec2024 23:35:05.281] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 3 from client
+[17Dec2024 23:35:05.476] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 4 from client
+[17Dec2024 23:35:05.670] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 5 from client
+[17Dec2024 23:35:06.077] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 6 from client
+[17Dec2024 23:35:06.266] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 7 from client
+[17Dec2024 23:35:06.465] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 8 from client
+[17Dec2024 23:35:06.658] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 9 from client
+[17Dec2024 23:35:06.847] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 10 from client
+[17Dec2024 23:35:07.041] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 11 from client
+[17Dec2024 23:35:07.438] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 12 from client
+[17Dec2024 23:35:07.630] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 13 from client
+[17Dec2024 23:35:07.822] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 14 from client
+[17Dec2024 23:35:08.014] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 15 from client
+[17Dec2024 23:35:08.215] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 16 from client
+[17Dec2024 23:35:08.404] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 17 from client
+[17Dec2024 23:35:08.597] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 18 from client
+[17Dec2024 23:35:08.790] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 19 from client
+[17Dec2024 23:35:14.368] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received client connection with modlist [another_furniture, balm, bosses_of_mass_destruction, catalogue, cerbons_api, cloth_config, collective, configlibtxf, craftable_saddles, easyanvils, enchantinginfuser, energizedpower, fantasy_armor, fantasy_weapons, forge, forgeconfigapiport, framework, geckolib, healthindicatortxf, hopo, hopour, jei, journeymap, minecraft, mixinextras, moretotems, naturescompass, puzzleslib, simplyharvesting, terralith, tombstone, travelersbackpack, treeharvester, waystones]
+[17Dec2024 23:35:14.687] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received client connection with channels [bosses_of_mass_destruction:blindness, bosses_of_mass_destruction:change_hitbox, bosses_of_mass_destruction:charged_ender_pearl, bosses_of_mass_destruction:heal, bosses_of_mass_destruction:obsidilith_revive, bosses_of_mass_destruction:place, bosses_of_mass_destruction:send_delta_movement, bosses_of_mass_destruction:send_particle, bosses_of_mass_destruction:send_vec3, bosses_of_mass_destruction:spike, bosses_of_mass_destruction:void_blossom_revive, cerbons_api:packets, easyanvils:main, enchantinginfuser:main, energizedpower:messages, forge:handshake, forge:login, forge:tier_sorting, framework:configuration, framework:play, geckolib:main, jei:channel, journeymap:admin_req, journeymap:admin_save, journeymap:common, journeymap:mp_options_req, journeymap:perm_req, journeymap:player_loc, journeymap:teleport_req, journeymap:version, journeymap:waypoint, minecraft:register, minecraft:tombstone_channel, minecraft:unregister, naturescompass:naturescompass, puzzleslib:main, travelersbackpack:network, waystones:network, worldinfo:world_id]
+[17Dec2024 23:35:14.687] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:tombstone_channel' : Version test of 'PRESENT 864' from client : ACCEPTED
+[17Dec2024 23:35:14.687] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jei:channel' : Version test of 'PRESENT 2' from client : ACCEPTED
+[17Dec2024 23:35:14.687] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'PRESENT 0' from client : ACCEPTED
+[17Dec2024 23:35:14.687] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'bosses_of_mass_destruction:send_vec3' : Version test of 'PRESENT 1' from client : ACCEPTED
+[17Dec2024 23:35:14.687] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'energizedpower:messages' : Version test of 'PRESENT 1' from client : ACCEPTED
+[17Dec2024 23:35:14.687] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:play' : Version test of 'PRESENT 1' from client : ACCEPTED
+[17Dec2024 23:35:14.687] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'travelersbackpack:network' : Version test of 'PRESENT 1' from client : ACCEPTED
+[17Dec2024 23:35:14.687] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'bosses_of_mass_destruction:void_blossom_revive' : Version test of 'PRESENT 1' from client : ACCEPTED
+[17Dec2024 23:35:14.687] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'bosses_of_mass_destruction:place' : Version test of 'PRESENT 1' from client : ACCEPTED
+[17Dec2024 23:35:14.687] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:configuration' : Version test of 'PRESENT 1' from client : ACCEPTED
+[17Dec2024 23:35:14.687] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'bosses_of_mass_destruction:obsidilith_revive' : Version test of 'PRESENT 1' from client : ACCEPTED
+[17Dec2024 23:35:14.687] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'bosses_of_mass_destruction:change_hitbox' : Version test of 'PRESENT 1' from client : ACCEPTED
+[17Dec2024 23:35:14.687] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'bosses_of_mass_destruction:send_delta_movement' : Version test of 'PRESENT 1' from client : ACCEPTED
+[17Dec2024 23:35:14.688] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cerbons_api:packets' : Version test of 'PRESENT 1' from client : ACCEPTED
+[17Dec2024 23:35:14.688] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of 'PRESENT 1' from client : ACCEPTED
+[17Dec2024 23:35:14.688] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'bosses_of_mass_destruction:heal' : Version test of 'PRESENT 1' from client : ACCEPTED
+[17Dec2024 23:35:14.688] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'bosses_of_mass_destruction:send_particle' : Version test of 'PRESENT 1' from client : ACCEPTED
+[17Dec2024 23:35:14.688] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:handshake' : Version test of 'PRESENT 0' from client : ACCEPTED
+[17Dec2024 23:35:14.688] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:login' : Version test of 'PRESENT 0' from client : ACCEPTED
+[17Dec2024 23:35:14.688] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'naturescompass:naturescompass' : Version test of 'PRESENT 1' from client : ACCEPTED
+[17Dec2024 23:35:14.688] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'bosses_of_mass_destruction:spike' : Version test of 'PRESENT 1' from client : ACCEPTED
+[17Dec2024 23:35:14.688] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'enchantinginfuser:main' : Version test of 'PRESENT 0' from client : ACCEPTED
+[17Dec2024 23:35:14.688] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'puzzleslib:main' : Version test of 'PRESENT 0' from client : ACCEPTED
+[17Dec2024 23:35:14.688] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'bosses_of_mass_destruction:charged_ender_pearl' : Version test of 'PRESENT 1' from client : ACCEPTED
+[17Dec2024 23:35:14.688] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'bosses_of_mass_destruction:blindness' : Version test of 'PRESENT 1' from client : ACCEPTED
+[17Dec2024 23:35:14.688] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'PRESENT 0' from client : ACCEPTED
+[17Dec2024 23:35:14.688] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib:main' : Version test of 'PRESENT 0' from client : ACCEPTED
+[17Dec2024 23:35:14.688] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'waystones:network' : Version test of 'PRESENT 0' from client : ACCEPTED
+[17Dec2024 23:35:14.688] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'easyanvils:main' : Version test of 'PRESENT 0' from client : ACCEPTED
+[17Dec2024 23:35:14.688] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[17Dec2024 23:35:15.005] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 0 from client
+[17Dec2024 23:35:15.361] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 1 from client
+[17Dec2024 23:35:15.674] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 2 from client
+[17Dec2024 23:35:15.750] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 20 from client
+[17Dec2024 23:35:15.751] [Netty Epoll Server IO #3/DEBUG] [Framework/FRAMEWORK_CONFIGURATION]: Sending configuration task 'framework:configuration/login_data'
+[17Dec2024 23:35:15.752] [Netty Epoll Server IO #3/DEBUG] [Framework/FRAMEWORK_CONFIGURATION]: Sending configuration task 'framework:configuration/config_data'
+[17Dec2024 23:35:15.752] [Netty Epoll Server IO #3/DEBUG] [Framework/FRAMEWORK_CONFIGURATION]: Sending configuration task 'framework:configuration/synced_entity_data'
+[17Dec2024 23:35:16.069] [Netty Epoll Server IO #3/DEBUG] [Framework/FRAMEWORK_CONFIGURATION]: Received acknowledgement from client
+[17Dec2024 23:35:16.245] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Cesarelm238[/127.236.89.143:60261] logged in with entity id 26592 at (-332.69999998807907, 63.0, 2423.300000011921)
+[17Dec2024 23:35:16.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesarelm238 joined the game
+[17Dec2024 23:35:16.342] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 3 from client
+[17Dec2024 23:35:16.658] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 4 from client
+[17Dec2024 23:35:16.971] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 5 from client
+[17Dec2024 23:35:17.920] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 6 from client
+[17Dec2024 23:35:19.008] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 7 from client
+[17Dec2024 23:35:19.321] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 8 from client
+[17Dec2024 23:35:19.635] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 9 from client
+[17Dec2024 23:35:19.949] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 10 from client
+[17Dec2024 23:35:20.907] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 11 from client
+[17Dec2024 23:35:22.433] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 12 from client
+[17Dec2024 23:35:22.758] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 13 from client
+[17Dec2024 23:35:23.075] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 14 from client
+[17Dec2024 23:35:23.962] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 15 from client
+[17Dec2024 23:35:24.275] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 16 from client
+[17Dec2024 23:35:24.589] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 17 from client
+[17Dec2024 23:35:24.902] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 18 from client
+[17Dec2024 23:35:25.799] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 19 from client
+[17Dec2024 23:35:26.700] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cesarelm238 lost connection: Disconnected
+[17Dec2024 23:35:26.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesarelm238 left the game
+[17Dec2024 23:35:28.278] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 20 from client
+[17Dec2024 23:35:28.279] [Netty Epoll Server IO #4/DEBUG] [Framework/FRAMEWORK_CONFIGURATION]: Sending configuration task 'framework:configuration/login_data'
+[17Dec2024 23:35:28.279] [Netty Epoll Server IO #4/DEBUG] [Framework/FRAMEWORK_CONFIGURATION]: Sending configuration task 'framework:configuration/config_data'
+[17Dec2024 23:35:28.279] [Netty Epoll Server IO #4/DEBUG] [Framework/FRAMEWORK_CONFIGURATION]: Sending configuration task 'framework:configuration/synced_entity_data'
+[17Dec2024 23:35:29.259] [Netty Epoll Server IO #4/DEBUG] [Framework/FRAMEWORK_CONFIGURATION]: Received acknowledgement from client
+[17Dec2024 23:35:30.599] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: WillOfTheBlades[/127.160.8.50:41697] logged in with entity id 26852 at (-323.4921433020402, 64.0, 2437.630995221344)
+[17Dec2024 23:35:30.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades joined the game
+[17Dec2024 23:36:32.439] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Dec2024 23:36:32.444] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Dec2024 23:36:43.899] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: WillOfTheBlades lost connection: Disconnected
+[17Dec2024 23:36:43.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades left the game
+[17Dec2024 23:37:03.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[17Dec2024 23:37:03.996] [Server thread/DEBUG] [Framework/]: Stopping config watcher
+[17Dec2024 23:37:03.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[17Dec2024 23:37:03.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[17Dec2024 23:37:03.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[17Dec2024 23:37:04.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17Dec2024 23:37:04.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17Dec2024 23:37:04.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17Dec2024 23:37:04.643] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Dec2024 23:37:04.648] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Dec2024 23:37:04.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17Dec2024 23:37:04.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17Dec2024 23:37:04.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17Dec2024 23:37:04.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[17Dec2024 23:37:04.713] [Server thread/INFO] [Framework/]: Unloading server configs...
+[17Dec2024 23:37:04.714] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[17Dec2024 23:37:04.714] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[17Dec2024 23:37:04.715] [Server thread/INFO] [Puzzles Lib/]: Unloading server config for easyanvils
+[17Dec2024 23:37:04.718] [Server thread/INFO] [Puzzles Lib/]: Unloading server config for enchantinginfuser
