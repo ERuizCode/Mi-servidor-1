@@ -3930,33 +3930,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/whos_the_pillager_now": {
-    "criteria": {
-      "kill_pillager": "2024-12-18 21:42:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/voluntary_exile": {
-    "criteria": {
-      "voluntary_exile": "2024-12-18 21:42:21 +0000"
-    },
-    "done": true
-  },
-  "energizedpower:recipes/crafting/tin_plate": {
-    "criteria": {
-      "has_tin": "2024-12-18 21:21:55 +0000"
-    },
-    "done": true
-  },
   "travelersbackpack:recipes/misc/wither": {
     "criteria": {
       "has_wither_skeleton_skull": "2024-12-18 21:15:07 +0000"
-    },
-    "done": true
-  },
-  "energizedpower:recipes/crafting/tin_cable": {
-    "criteria": {
-      "has_tin": "2024-12-18 21:21:55 +0000"
     },
     "done": true
   },
@@ -3966,15 +3942,33 @@
     },
     "done": true
   },
-  "energizedpower:recipes/compressing/tin_plate_from_compressing_tin_iingot": {
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-12-18 21:15:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2024-12-18 21:15:07 +0000"
+    },
+    "done": true
+  },
+  "energizedpower:recipes/crafting/tin_plate": {
     "criteria": {
       "has_tin": "2024-12-18 21:21:55 +0000"
     },
     "done": true
   },
-  "minecraft:nether/get_wither_skull": {
+  "energizedpower:recipes/crafting/tin_cable": {
     "criteria": {
-      "wither_skull": "2024-12-18 21:15:07 +0000"
+      "has_tin": "2024-12-18 21:21:55 +0000"
+    },
+    "done": true
+  },
+  "energizedpower:recipes/compressing/tin_plate_from_compressing_tin_iingot": {
+    "criteria": {
+      "has_tin": "2024-12-18 21:21:55 +0000"
     },
     "done": true
   },
@@ -3990,9 +3984,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/skull_banner_pattern": {
+  "minecraft:adventure/whos_the_pillager_now": {
     "criteria": {
-      "has_wither_skeleton_skull": "2024-12-18 21:15:07 +0000"
+      "kill_pillager": "2024-12-18 21:42:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-12-18 21:42:21 +0000"
     },
     "done": true
   },

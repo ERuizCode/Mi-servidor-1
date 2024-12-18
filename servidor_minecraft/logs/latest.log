@@ -150,3 +150,17 @@
 [18Dec2024 22:21:38.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesarelm238 joined the game
 [18Dec2024 22:21:46.533] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8954ms or 179 ticks behind
 [18Dec2024 22:22:14.293] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12760ms or 255 ticks behind
+[18Dec2024 22:39:11.316] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: WillOfTheBlades[/127.160.8.50:36799] logged in with entity id 2996 at (-337.13749998807907, 64.0, 2426.699999988079)
+[18Dec2024 22:39:11.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades joined the game
+[18Dec2024 22:46:23.842] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeleton Horse (vehicle of WillOfTheBlades) moved wrongly! 0.28521023113523825
+[18Dec2024 22:46:23.891] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeleton Horse (vehicle of WillOfTheBlades) moved wrongly! 0.6948119568810966
+[18Dec2024 22:46:23.950] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeleton Horse (vehicle of WillOfTheBlades) moved wrongly! 1.1054229544951113
+[18Dec2024 22:46:23.994] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeleton Horse (vehicle of WillOfTheBlades) moved wrongly! 1.5171094729270749
+[18Dec2024 22:46:24.016] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeleton Horse (vehicle of WillOfTheBlades) moved wrongly! 1.929573448351448
+[18Dec2024 22:46:24.067] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeleton Horse (vehicle of WillOfTheBlades) moved wrongly! 2.3426538506665224
+[18Dec2024 22:46:24.124] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeleton Horse (vehicle of WillOfTheBlades) moved wrongly! 2.756160518164563
+[18Dec2024 22:46:24.195] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeleton Horse (vehicle of WillOfTheBlades) moved wrongly! 3.169895271663222
+[18Dec2024 22:47:40.945] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeleton Horse (vehicle of WillOfTheBlades) moved wrongly! 0.3049537227680048
+[18Dec2024 22:47:40.995] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeleton Horse (vehicle of WillOfTheBlades) moved wrongly! 0.4787634221265762
+[18Dec2024 22:47:41.052] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeleton Horse (vehicle of WillOfTheBlades) moved wrongly! 0.7241680803344934
+[18Dec2024 22:47:41.098] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeleton Horse (vehicle of WillOfTheBlades) moved wrongly! 0.9330595212181834
