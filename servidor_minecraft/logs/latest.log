@@ -139,3 +139,5 @@
 [18Dec2024 18:50:49.606] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: WillOfTheBlades[/127.160.8.50:42971] logged in with entity id 258 at (-329.40076609342907, 63.0, 2413.8189181217404)
 [18Dec2024 18:50:49.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades joined the game
 [18Dec2024 18:50:55.012] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5533ms or 110 ticks behind
+[18Dec2024 18:59:16.478] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Cesarelm238[/127.50.162.126:40551] logged in with entity id 2345 at (-314.1768103878923, 64.0, 2443.468251797495)
+[18Dec2024 18:59:16.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesarelm238 joined the game
