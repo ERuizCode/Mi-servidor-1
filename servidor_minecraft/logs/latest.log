@@ -146,3 +146,8 @@
 [18Dec2024 19:19:17.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades has made the advancement [Black or White]
 [18Dec2024 20:04:18.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WillOfTheBlades> Cesarelm238
 [18Dec2024 20:16:03.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesarelm238> Que
+[18Dec2024 20:22:43.140] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: WillOfTheBlades lost connection: Timed out
+[18Dec2024 20:22:43.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades left the game
+[18Dec2024 20:22:43.188] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[18Dec2024 20:23:00.486] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: WillOfTheBlades[/127.160.8.50:46955] logged in with entity id 18670 at (-330.7701070792902, 72.0, 2430.8435887155283)
+[18Dec2024 20:23:00.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades joined the game
