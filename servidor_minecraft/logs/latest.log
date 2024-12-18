@@ -184,3 +184,6 @@
 [18Dec2024 23:25:41.101] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-261, y=73, z=2395} BlockPos{x=-260, y=72, z=2395}
 [18Dec2024 23:39:54.797] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cesarelm238 lost connection: Disconnected
 [18Dec2024 23:39:54.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesarelm238 left the game
+[18Dec2024 23:46:03.661] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Cesarelm238[/127.50.162.126:43937] logged in with entity id 18942 at (-330.8523374159992, 63.0, 2393.0242974366615)
+[18Dec2024 23:46:03.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesarelm238 joined the game
+[18Dec2024 23:48:39.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesarelm238> on an ally
