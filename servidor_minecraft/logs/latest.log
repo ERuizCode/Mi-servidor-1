@@ -182,3 +182,5 @@
 [18Dec2024 22:55:35.993] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of WillOfTheBlades) moved wrongly! 2.2751260946674847
 [18Dec2024 22:55:36.091] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of WillOfTheBlades) moved wrongly! 2.3655527727719345
 [18Dec2024 23:25:41.101] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-261, y=73, z=2395} BlockPos{x=-260, y=72, z=2395}
+[18Dec2024 23:39:54.797] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cesarelm238 lost connection: Disconnected
+[18Dec2024 23:39:54.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesarelm238 left the game
