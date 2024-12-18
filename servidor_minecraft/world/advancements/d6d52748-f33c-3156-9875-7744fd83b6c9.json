@@ -3561,12 +3561,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/jungle_wood": {
-    "criteria": {
-      "has_log": "2024-12-18 19:23:56 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2024-12-18 19:05:31 +0000"
@@ -3579,9 +3573,27 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2024-12-18 19:11:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_cherry_wood": {
     "criteria": {
       "has_log": "2024-12-18 19:18:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-12-18 19:18:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2024-12-18 19:23:56 +0000"
     },
     "done": true
   },
@@ -3591,15 +3603,39 @@
     },
     "done": true
   },
-  "tombstone:adventure/create_magic_scroll": {
+  "another_furniture:recipes/oak_flower_box": {
     "criteria": {
-      "has_magic_scroll": "2024-12-18 19:11:47 +0000"
+      "has_slab": "2024-12-18 20:53:00 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cherry_hanging_sign": {
+  "another_furniture:recipes/oak_shutter": {
     "criteria": {
-      "has_stripped_logs": "2024-12-18 19:18:50 +0000"
+      "has_slab": "2024-12-18 20:53:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2024-12-18 20:46:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2024-12-18 20:46:25 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/oak_bench": {
+    "criteria": {
+      "has_slab": "2024-12-18 20:53:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2024-12-18 20:46:25 +0000"
     },
     "done": true
   },
