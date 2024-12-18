@@ -3795,5 +3795,23 @@
     },
     "done": true
   },
+  "another_furniture:recipes/spruce_flower_box": {
+    "criteria": {
+      "has_slab": "2024-12-18 23:20:15 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/spruce_bench": {
+    "criteria": {
+      "has_slab": "2024-12-18 23:20:15 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/spruce_shutter": {
+    "criteria": {
+      "has_slab": "2024-12-18 23:20:15 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3700
 }
