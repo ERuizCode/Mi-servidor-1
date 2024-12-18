@@ -1,15 +1,15 @@
-[18Dec2024 00:02:37.597] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server]
-[18Dec2024 00:02:37.618] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Microsoft OpenJDK 64-Bit Server VM 21.0.4+7-LTS
-[18Dec2024 00:02:37.622] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.1.2 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
-[18Dec2024 00:02:38.508] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
-[18Dec2024 00:02:38.871] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=jar:file:///workspaces/Mi-servidor-1/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar!/ Service=ModLauncher Env=SERVER
-[18Dec2024 00:02:40.568] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 3 dependencies adding them to mods collection
-[18Dec2024 00:02:43.604] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[18Dec2024 00:02:43.809] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments []
-[18Dec2024 00:02:43.928] [main/WARN] [mixin/]: Reference map 'ForgeConfigAPIPort-Common-refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[18Dec2024 00:02:44.059] [main/WARN] [mixin/]: Reference map 'ForgeConfigAPIPort-Forge-refmap.json' for forgeconfigapiport.forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[18Dec2024 00:02:44.080] [main/WARN] [mixin/]: Reference map 'CerbonsAPI-Forge-1.20.4-forge-refmap.json' for cerbons_api.mixins.json could not be read. If this is a development environment you can ignore this message
-[18Dec2024 00:02:44.167] [main/INFO] [Puzzles Lib/]: Loading 31 mods:
+[18Dec2024 01:45:28.275] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server]
+[18Dec2024 01:45:28.279] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Microsoft OpenJDK 64-Bit Server VM 21.0.4+7-LTS
+[18Dec2024 01:45:28.281] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.1.2 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
+[18Dec2024 01:45:29.216] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
+[18Dec2024 01:45:29.445] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=jar:file:///workspaces/Mi-servidor-1/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar!/ Service=ModLauncher Env=SERVER
+[18Dec2024 01:45:30.167] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 3 dependencies adding them to mods collection
+[18Dec2024 01:45:32.043] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[18Dec2024 01:45:32.208] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments []
+[18Dec2024 01:45:32.268] [main/WARN] [mixin/]: Reference map 'ForgeConfigAPIPort-Common-refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[18Dec2024 01:45:32.429] [main/WARN] [mixin/]: Reference map 'ForgeConfigAPIPort-Forge-refmap.json' for forgeconfigapiport.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[18Dec2024 01:45:32.442] [main/WARN] [mixin/]: Reference map 'CerbonsAPI-Forge-1.20.4-forge-refmap.json' for cerbons_api.mixins.json could not be read. If this is a development environment you can ignore this message
+[18Dec2024 01:45:32.511] [main/INFO] [Puzzles Lib/]: Loading 29 mods:
 	- another_furniture 1.20.1-3.0.1
 	- balm 9.0.9
 	- bosses_of_mass_destruction 1.2.0
@@ -17,8 +17,6 @@
 	- cerbons_api 1.1.1
 	- cloth_config 13.0.138
 	- collective 7.64
-	- craftable_saddles 1.4
-	- easyanvils 20.4.6
 	- enchantinginfuser 20.4.1
 	- energizedpower 1.20.4-2.9.13-forge
 	- fantasy_armor 0.5-1.20.1
@@ -41,211 +39,129 @@
 	- travelersbackpack 9.4.3
 	- treeharvester 8.7
 	- waystones 16.0.5
-[18Dec2024 00:02:44.183] [main/WARN] [mixin/]: Reference map 'enchantinginfuser.common.refmap.json' for enchantinginfuser.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[18Dec2024 00:02:44.186] [main/WARN] [mixin/]: Reference map 'enchantinginfuser.forge.refmap.json' for enchantinginfuser.forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[18Dec2024 00:02:45.758] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/components/BossHealthOverlay for invalid dist DEDICATED_SERVER
-[18Dec2024 00:02:45.759] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/components/BossHealthOverlay (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/components/BossHealthOverlay for invalid dist DEDICATED_SERVER)
-[18Dec2024 00:02:45.759] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.components.BossHealthOverlay was not found bosses_of_mass_destruction-common.mixins.json:BossHealthOverlayMixin
-[18Dec2024 00:02:46.188] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
-[18Dec2024 00:02:46.864] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.properties file on the classpath: [jar:file:///workspaces/Mi-servidor-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/workspaces/Mi-servidor-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/workspaces/Mi-servidor-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:///workspaces/Mi-servidor-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/workspaces/Mi-servidor-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/workspaces/Mi-servidor-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:///workspaces/Mi-servidor-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/workspaces/Mi-servidor-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/workspaces/Mi-servidor-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:///workspaces/Mi-servidor-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/workspaces/Mi-servidor-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/workspaces/Mi-servidor-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties]
-[18Dec2024 00:02:47.049] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath: [jar:file:///workspaces/Mi-servidor-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/workspaces/Mi-servidor-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/workspaces/Mi-servidor-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:///workspaces/Mi-servidor-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/workspaces/Mi-servidor-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/workspaces/Mi-servidor-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:///workspaces/Mi-servidor-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/workspaces/Mi-servidor-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/workspaces/Mi-servidor-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:///workspaces/Mi-servidor-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/workspaces/Mi-servidor-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/workspaces/Mi-servidor-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties]
-[18Dec2024 00:02:56.872] [modloading-worker-0/INFO] [me.jddev0.ep.config.ModConfigs/]: Energized Power common config was successfully loaded
-[18Dec2024 00:02:56.874] [modloading-worker-0/INFO] [me.jddev0.ep.config.ModConfigs/]: Energized Power server config was successfully loaded
-[18Dec2024 00:02:56.976] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easyanvils:main
-[18Dec2024 00:02:57.065] [modloading-worker-0/INFO] [Puzzles Lib/]: Loading common config for easyanvils
-[18Dec2024 00:02:57.068] [Thread-1/INFO] [Puzzles Lib/]: Reloading common config for easyanvils
-[18Dec2024 00:02:57.501] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 7.64.
-[18Dec2024 00:02:58.315] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
-[18Dec2024 00:02:58.434] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 49.1.4, for MC 1.20.4 with MCP 20231207.112700
-[18Dec2024 00:02:58.434] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v49.1.4 Initialized
-[18Dec2024 00:02:58.470] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
-[18Dec2024 00:02:58.529] [modloading-worker-0/INFO] [MoreTotems/]: Hello Forge world!
-[18Dec2024 00:02:58.566] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for enchantinginfuser:main
-[18Dec2024 00:03:02.823] [main/INFO] [Puzzles Lib/]: Loading common config for easyanvils
-[18Dec2024 00:03:02.824] [Thread-1/WARN] [fuzs.puzzleslib.forge.impl.config.core.ForgeConfigFileTypeHandler/CONFIG]: Configuration file /workspaces/Mi-servidor-1/servidor_minecraft/config/easyanvils-common.toml is not correct. Correcting
-[18Dec2024 00:03:02.837] [Thread-1/WARN] [Forge Config API Port/]: Incorrect key name_tag_crafting_recipe was corrected from null to its default, false. 
-[18Dec2024 00:03:02.839] [Thread-1/INFO] [Puzzles Lib/]: Reloading common config for easyanvils
-[18Dec2024 00:03:02.995] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
-[18Dec2024 00:03:02.995] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
-[18Dec2024 00:03:02.997] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
-[18Dec2024 00:03:02.997] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
-[18Dec2024 00:03:03.387] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [simplyharvesting] Starting version check at https://assets.melanx.de/updates/simply-harvesting.json
-[18Dec2024 00:03:04.175] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [simplyharvesting] Found status: BETA Current: 1.20-2.0.0 Target: null
-[18Dec2024 00:03:04.176] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easyanvils.json
-[18Dec2024 00:03:04.219] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Found status: UP_TO_DATE Current: 20.4.6 Target: null
-[18Dec2024 00:03:04.219] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forgeconfigapiport] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/forgeconfigapiport.json
-[18Dec2024 00:03:04.244] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forgeconfigapiport] Found status: UP_TO_DATE Current: 20.4.3 Target: null
-[18Dec2024 00:03:04.244] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
-[18Dec2024 00:03:04.311] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: AHEAD Current: 9.4.3 Target: null
-[18Dec2024 00:03:04.313] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[18Dec2024 00:03:04.335] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 8.6.4 Target: null
-[18Dec2024 00:03:04.335] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [catalogue] Starting version check at https://mrcrayfish.com/modupdatejson?id=catalogue&loader=forge
-[18Dec2024 00:03:04.848] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [catalogue] Found status: BETA Current: 1.9.1 Target: 1.9.1
-[18Dec2024 00:03:04.848] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
-[18Dec2024 00:03:04.864] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 20.4.52 Target: null
-[18Dec2024 00:03:04.864] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
-[18Dec2024 00:03:05.341] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA Current: 0.7.12 Target: 0.7.12
-[18Dec2024 00:03:05.341] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[18Dec2024 00:03:05.441] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 49.1.4 Target: 49.1.13
-[18Dec2024 00:03:05.441] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchantinginfuser] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/enchantinginfuser.json
-[18Dec2024 00:03:05.462] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchantinginfuser] Found status: UP_TO_DATE Current: 20.4.1 Target: null
-[18Dec2024 00:03:11.928] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[18Dec2024 00:03:22.609] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 24 recipes
-[18Dec2024 00:03:23.117] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 2163 advancements
-[18Dec2024 00:03:28.637] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.4
-[18Dec2024 00:03:28.638] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[18Dec2024 00:03:28.639] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[18Dec2024 00:03:28.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[18Dec2024 00:03:28.954] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[18Dec2024 00:03:29.033] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[18Dec2024 00:03:29.144] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18Dec2024 00:03:29.145] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[18Dec2024 00:03:29.145] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18Dec2024 00:03:29.146] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[18Dec2024 00:03:29.172] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easyanvils
-[18Dec2024 00:03:29.174] [Thread-1/INFO] [Puzzles Lib/]: Reloading server config for easyanvils
-[18Dec2024 00:03:29.182] [Thread-1/INFO] [Puzzles Lib/]: Reloading server config for easyanvils
-[18Dec2024 00:03:29.200] [Server thread/INFO] [Puzzles Lib/]: Loading server config for enchantinginfuser
-[18Dec2024 00:03:29.203] [Thread-1/INFO] [Puzzles Lib/]: Reloading server config for enchantinginfuser
-[18Dec2024 00:03:29.209] [Thread-1/INFO] [Puzzles Lib/]: Reloading server config for enchantinginfuser
-[18Dec2024 00:03:29.211] [Thread-1/INFO] [Puzzles Lib/]: Reloading server config for enchantinginfuser
-[18Dec2024 00:03:29.282] [Server thread/INFO] [Framework/]: Loading server configs...
-[18Dec2024 00:03:29.322] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[18Dec2024 00:03:30.288] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.custom.obsidilith.ObsidilithEntity from class com.cerbon.bosses_of_mass_destruction.entity.custom.obsidilith.ObsidilithUtils
-[18Dec2024 00:03:30.298] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.custom.gauntlet.GauntletEntity from class com.cerbon.bosses_of_mass_destruction.projectile.PetalBladeProjectile
-[18Dec2024 00:03:30.309] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.util.BaseEntity from class com.cerbon.bosses_of_mass_destruction.entity.custom.void_blossom.hitbox.NetworkedHitboxManager
-[18Dec2024 00:03:37.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[18Dec2024 00:03:46.663] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Dec2024 00:03:46.671] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Dec2024 00:03:46.672] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Dec2024 00:03:46.673] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Dec2024 00:03:46.673] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Dec2024 00:03:46.674] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Dec2024 00:03:46.674] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Dec2024 00:03:46.675] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Dec2024 00:03:46.676] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Dec2024 00:03:46.677] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Dec2024 00:03:46.678] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Dec2024 00:03:46.679] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Dec2024 00:03:46.680] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Dec2024 00:03:46.681] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Dec2024 00:03:46.683] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Dec2024 00:03:46.685] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Dec2024 00:03:46.687] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Dec2024 00:03:46.689] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Dec2024 00:03:46.690] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Dec2024 00:03:48.924] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Dec2024 00:03:48.925] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Dec2024 00:03:48.926] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Dec2024 00:03:48.926] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Dec2024 00:03:49.134] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Dec2024 00:03:50.992] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Dec2024 00:03:50.993] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Dec2024 00:03:50.995] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Dec2024 00:03:51.130] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Dec2024 00:03:52.023] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Dec2024 00:03:52.115] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Dec2024 00:03:52.944] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Dec2024 00:03:53.122] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Dec2024 00:03:53.815] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Dec2024 00:03:54.299] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Dec2024 00:03:54.641] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Dec2024 00:03:55.115] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Dec2024 00:03:55.661] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Dec2024 00:03:56.166] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Dec2024 00:03:56.704] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Dec2024 00:03:57.152] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Dec2024 00:03:57.626] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Dec2024 00:03:58.131] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Dec2024 00:03:58.635] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Dec2024 00:03:59.124] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Dec2024 00:03:59.626] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Dec2024 00:04:00.120] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Dec2024 00:04:00.722] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Dec2024 00:04:01.184] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Dec2024 00:04:01.632] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Dec2024 00:04:02.126] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Dec2024 00:04:02.626] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Dec2024 00:04:03.120] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Dec2024 00:04:03.740] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Dec2024 00:04:04.150] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Dec2024 00:04:04.652] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Dec2024 00:04:05.162] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Dec2024 00:04:05.650] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Dec2024 00:04:06.127] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Dec2024 00:04:06.627] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Dec2024 00:04:07.155] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Dec2024 00:04:07.615] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Dec2024 00:04:08.116] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Dec2024 00:04:08.779] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Dec2024 00:04:09.115] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Dec2024 00:04:09.622] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Dec2024 00:04:10.127] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Dec2024 00:04:10.619] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Dec2024 00:04:11.172] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Dec2024 00:04:11.629] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Dec2024 00:04:12.151] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Dec2024 00:04:12.622] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Dec2024 00:04:13.164] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Dec2024 00:04:13.657] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Dec2024 00:04:14.120] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Dec2024 00:04:14.628] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Dec2024 00:04:15.166] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Dec2024 00:04:15.929] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Dec2024 00:04:16.138] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Dec2024 00:04:16.667] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Dec2024 00:04:17.229] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Dec2024 00:04:17.623] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Dec2024 00:04:18.129] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Dec2024 00:04:19.315] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 5%
-[18Dec2024 00:04:19.315] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 5%
-[18Dec2024 00:04:20.119] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 79%
-[18Dec2024 00:04:20.121] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 79%
-[18Dec2024 00:04:21.673] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 44059 ms
-[18Dec2024 00:04:21.674] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (52.509s)! For help, type "help"
-[18Dec2024 00:04:21.709] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[18Dec2024 00:04:50.501] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: WillOfTheBlades[/127.160.8.50:60445] logged in with entity id 269 at (-323.1833352083, 64.875, 2424.7829935533973)
-[18Dec2024 00:04:50.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades joined the game
-[18Dec2024 00:04:58.474] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8156ms or 163 ticks behind
-[18Dec2024 00:05:50.732] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: WillOfTheBlades lost connection: Timed out
-[18Dec2024 00:05:50.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades left the game
-[18Dec2024 00:06:31.095] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: WillOfTheBlades[/127.160.8.50:35209] logged in with entity id 596 at (-323.1833352083, 64.875, 2424.7829935533973)
-[18Dec2024 00:06:31.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades joined the game
-[18Dec2024 00:06:33.695] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2577ms or 51 ticks behind
-[18Dec2024 00:07:00.276] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2558ms or 51 ticks behind
-[18Dec2024 00:28:18.092] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Cesarelm238[/127.236.89.143:49055] logged in with entity id 4033 at (-332.69999998807907, 63.0, 2423.300000011921)
-[18Dec2024 00:28:18.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesarelm238 joined the game
-[18Dec2024 00:29:18.228] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-332, y=61, z=2417} BlockPos{x=-332, y=62, z=2417}
-[18Dec2024 00:29:38.885] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: WillOfTheBlades lost connection: You logged in from another location
-[18Dec2024 00:29:38.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades left the game
-[18Dec2024 00:29:38.940] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[18Dec2024 00:29:56.762] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: WillOfTheBlades[/127.160.8.50:57707] logged in with entity id 4301 at (-314.5, 64.5625, 2428.5)
-[18Dec2024 00:29:56.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades joined the game
-[18Dec2024 00:30:45.178] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cesarelm238 lost connection: Disconnected
-[18Dec2024 00:30:45.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesarelm238 left the game
-[18Dec2024 00:31:06.728] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Cesarelm238[/127.236.89.143:41287] logged in with entity id 4437 at (-312.22384940165995, 64.0, 2428.378919688518)
-[18Dec2024 00:31:06.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesarelm238 joined the game
-[18Dec2024 00:31:26.886] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: WillOfTheBlades lost connection: Timed out
-[18Dec2024 00:31:26.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades left the game
-[18Dec2024 00:31:26.996] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[18Dec2024 00:32:01.663] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: WillOfTheBlades[/127.160.8.50:54793] logged in with entity id 4556 at (-314.5, 64.5625, 2428.5)
-[18Dec2024 00:32:01.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades joined the game
-[18Dec2024 00:33:16.877] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: WillOfTheBlades lost connection: Timed out
-[18Dec2024 00:33:16.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades left the game
-[18Dec2024 00:33:41.378] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cesarelm238 lost connection: Disconnected
-[18Dec2024 00:33:41.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesarelm238 left the game
-[18Dec2024 00:35:10.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[18Dec2024 00:35:10.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[18Dec2024 00:35:10.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[18Dec2024 00:35:10.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[18Dec2024 00:35:11.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[18Dec2024 00:35:11.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[18Dec2024 00:35:11.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[18Dec2024 00:35:11.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[18Dec2024 00:35:11.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[18Dec2024 00:35:11.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[18Dec2024 00:35:11.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
-[18Dec2024 00:35:11.995] [Server thread/INFO] [Framework/]: Unloading server configs...
-[18Dec2024 00:35:11.995] [Server thread/INFO] [Framework/]: Finished unloading server configs
-[18Dec2024 00:35:11.996] [Server thread/INFO] [Puzzles Lib/]: Unloading server config for easyanvils
-[18Dec2024 00:35:12.003] [Server thread/INFO] [Puzzles Lib/]: Unloading server config for enchantinginfuser
+[18Dec2024 01:45:32.537] [main/WARN] [mixin/]: Reference map 'enchantinginfuser.common.refmap.json' for enchantinginfuser.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[18Dec2024 01:45:32.539] [main/WARN] [mixin/]: Reference map 'enchantinginfuser.forge.refmap.json' for enchantinginfuser.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[18Dec2024 01:45:34.142] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/components/BossHealthOverlay for invalid dist DEDICATED_SERVER
+[18Dec2024 01:45:34.145] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/components/BossHealthOverlay (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/components/BossHealthOverlay for invalid dist DEDICATED_SERVER)
+[18Dec2024 01:45:34.146] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.components.BossHealthOverlay was not found bosses_of_mass_destruction-common.mixins.json:BossHealthOverlayMixin
+[18Dec2024 01:45:34.603] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[18Dec2024 01:45:35.340] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.properties file on the classpath: [jar:file:///workspaces/Mi-servidor-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/workspaces/Mi-servidor-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/workspaces/Mi-servidor-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:///workspaces/Mi-servidor-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/workspaces/Mi-servidor-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/workspaces/Mi-servidor-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:///workspaces/Mi-servidor-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/workspaces/Mi-servidor-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/workspaces/Mi-servidor-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:///workspaces/Mi-servidor-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/workspaces/Mi-servidor-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/workspaces/Mi-servidor-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties]
+[18Dec2024 01:45:35.574] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath: [jar:file:///workspaces/Mi-servidor-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/workspaces/Mi-servidor-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/workspaces/Mi-servidor-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:///workspaces/Mi-servidor-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/workspaces/Mi-servidor-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/workspaces/Mi-servidor-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:///workspaces/Mi-servidor-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/workspaces/Mi-servidor-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/workspaces/Mi-servidor-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:///workspaces/Mi-servidor-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/workspaces/Mi-servidor-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/workspaces/Mi-servidor-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties]
+[18Dec2024 01:45:44.978] [modloading-worker-0/INFO] [me.jddev0.ep.config.ModConfigs/]: Energized Power common config was successfully loaded
+[18Dec2024 01:45:44.984] [modloading-worker-0/INFO] [me.jddev0.ep.config.ModConfigs/]: Energized Power server config was successfully loaded
+[18Dec2024 01:45:45.688] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 7.64.
+[18Dec2024 01:45:46.370] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[18Dec2024 01:45:46.473] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 49.1.4, for MC 1.20.4 with MCP 20231207.112700
+[18Dec2024 01:45:46.474] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v49.1.4 Initialized
+[18Dec2024 01:45:46.494] [modloading-worker-0/INFO] [MoreTotems/]: Hello Forge world!
+[18Dec2024 01:45:46.502] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
+[18Dec2024 01:45:46.534] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for enchantinginfuser:main
+[18Dec2024 01:45:50.490] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[18Dec2024 01:45:50.502] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[18Dec2024 01:45:50.507] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[18Dec2024 01:45:50.508] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[18Dec2024 01:45:51.109] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [simplyharvesting] Starting version check at https://assets.melanx.de/updates/simply-harvesting.json
+[18Dec2024 01:45:51.991] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [simplyharvesting] Found status: BETA Current: 1.20-2.0.0 Target: null
+[18Dec2024 01:45:51.992] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forgeconfigapiport] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/forgeconfigapiport.json
+[18Dec2024 01:45:52.038] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forgeconfigapiport] Found status: UP_TO_DATE Current: 20.4.3 Target: null
+[18Dec2024 01:45:52.038] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[18Dec2024 01:45:52.092] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: AHEAD Current: 9.4.3 Target: null
+[18Dec2024 01:45:52.092] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[18Dec2024 01:45:52.104] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 8.6.4 Target: null
+[18Dec2024 01:45:52.104] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [catalogue] Starting version check at https://mrcrayfish.com/modupdatejson?id=catalogue&loader=forge
+[18Dec2024 01:45:52.587] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [catalogue] Found status: BETA Current: 1.9.1 Target: 1.9.1
+[18Dec2024 01:45:52.587] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[18Dec2024 01:45:52.598] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 20.4.52 Target: null
+[18Dec2024 01:45:52.599] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[18Dec2024 01:45:52.950] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA Current: 0.7.12 Target: 0.7.12
+[18Dec2024 01:45:52.951] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[18Dec2024 01:45:53.132] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 49.1.4 Target: 49.1.13
+[18Dec2024 01:45:53.134] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchantinginfuser] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/enchantinginfuser.json
+[18Dec2024 01:45:53.147] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchantinginfuser] Found status: UP_TO_DATE Current: 20.4.1 Target: null
+[18Dec2024 01:45:59.150] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18Dec2024 01:46:10.337] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 24 recipes
+[18Dec2024 01:46:10.817] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 2163 advancements
+[18Dec2024 01:46:16.194] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.4
+[18Dec2024 01:46:16.195] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[18Dec2024 01:46:16.196] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[18Dec2024 01:46:16.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[18Dec2024 01:46:16.528] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[18Dec2024 01:46:16.653] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[18Dec2024 01:46:16.731] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18Dec2024 01:46:16.732] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[18Dec2024 01:46:16.736] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18Dec2024 01:46:16.736] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[18Dec2024 01:46:16.772] [Server thread/INFO] [Puzzles Lib/]: Loading server config for enchantinginfuser
+[18Dec2024 01:46:16.775] [Thread-1/INFO] [Puzzles Lib/]: Reloading server config for enchantinginfuser
+[18Dec2024 01:46:16.830] [Server thread/INFO] [Framework/]: Loading server configs...
+[18Dec2024 01:46:16.862] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[18Dec2024 01:46:18.012] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.custom.obsidilith.ObsidilithEntity from class com.cerbon.bosses_of_mass_destruction.entity.custom.obsidilith.ObsidilithUtils
+[18Dec2024 01:46:18.020] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.custom.gauntlet.GauntletEntity from class com.cerbon.bosses_of_mass_destruction.projectile.PetalBladeProjectile
+[18Dec2024 01:46:18.028] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.util.BaseEntity from class com.cerbon.bosses_of_mass_destruction.entity.custom.void_blossom.hitbox.NetworkedHitboxManager
+[18Dec2024 01:46:30.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[18Dec2024 01:46:46.178] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Dec2024 01:46:46.198] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Dec2024 01:46:46.200] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Dec2024 01:46:46.202] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Dec2024 01:46:46.204] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Dec2024 01:46:46.206] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Dec2024 01:46:46.207] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Dec2024 01:46:46.210] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Dec2024 01:46:46.213] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Dec2024 01:46:46.214] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Dec2024 01:46:46.216] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Dec2024 01:46:46.218] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Dec2024 01:46:46.221] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Dec2024 01:46:46.225] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Dec2024 01:46:46.230] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Dec2024 01:46:46.233] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Dec2024 01:46:46.238] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Dec2024 01:46:46.241] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Dec2024 01:46:46.246] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Dec2024 01:46:46.249] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Dec2024 01:46:46.255] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Dec2024 01:46:46.260] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Dec2024 01:46:46.264] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Dec2024 01:46:46.269] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Dec2024 01:46:46.275] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Dec2024 01:46:46.281] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Dec2024 01:46:46.287] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Dec2024 01:46:46.293] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Dec2024 01:46:46.300] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Dec2024 01:46:46.308] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Dec2024 01:46:46.320] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Dec2024 01:46:46.321] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Dec2024 01:46:46.323] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Dec2024 01:46:46.689] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Dec2024 01:46:47.188] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Dec2024 01:46:47.696] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Dec2024 01:46:48.189] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Dec2024 01:46:48.688] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Dec2024 01:46:49.248] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Dec2024 01:46:49.697] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 19509 ms
+[18Dec2024 01:46:49.699] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (32.949s)! For help, type "help"
+[18Dec2024 01:46:49.751] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[18Dec2024 01:47:08.187] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: WillOfTheBlades[/127.160.8.50:47523] logged in with entity id 259 at (-324.0785271557786, 64.875, 2425.8941152582156)
+[18Dec2024 01:47:08.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades joined the game
+[18Dec2024 01:47:12.887] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4876ms or 97 ticks behind
+[18Dec2024 01:47:18.534] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Bee['Bee'/531, l='ServerLevel[world]', x=-292.81, y=88.59, z=2235.75]
+[18Dec2024 01:51:04.220] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: WillOfTheBlades lost connection: Disconnected
+[18Dec2024 01:51:04.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades left the game
+[18Dec2024 01:51:53.094] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: WillOfTheBlades[/127.160.8.50:45089] logged in with entity id 974 at (-335.5864648169229, 64.0, 2432.6137877983083)
+[18Dec2024 01:51:53.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades joined the game
+[18Dec2024 01:51:55.927] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2866ms or 57 ticks behind
+[18Dec2024 01:52:23.121] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: WillOfTheBlades lost connection: Timed out
+[18Dec2024 01:52:23.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades left the game
+[18Dec2024 01:52:23.177] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[18Dec2024 01:53:03.468] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: WillOfTheBlades[/127.160.8.50:54809] logged in with entity id 1255 at (-335.5864648169229, 64.0, 2432.6137877983083)
+[18Dec2024 01:53:03.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades joined the game
+[18Dec2024 01:53:33.571] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: WillOfTheBlades lost connection: Timed out
+[18Dec2024 01:53:33.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades left the game
+[18Dec2024 01:54:44.286] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: WillOfTheBlades[/127.160.8.50:48847] logged in with entity id 1532 at (-335.5864648169229, 64.0, 2432.6137877983083)
+[18Dec2024 01:54:44.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades joined the game
+[18Dec2024 01:54:45.694] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: WillOfTheBlades lost connection: Timed out
+[18Dec2024 01:54:45.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades left the game
+[18Dec2024 01:54:45.736] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[18Dec2024 01:54:45.791] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[18Dec2024 01:55:22.891] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: WillOfTheBlades[/127.160.8.50:58831] logged in with entity id 1554 at (-335.5864648169229, 64.0, 2432.6137877983083)
+[18Dec2024 01:55:22.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades joined the game
