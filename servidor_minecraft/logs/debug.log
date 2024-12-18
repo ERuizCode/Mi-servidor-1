@@ -2173,3 +2173,25 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [18Dec2024 22:47:40.995] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeleton Horse (vehicle of WillOfTheBlades) moved wrongly! 0.4787634221265762
 [18Dec2024 22:47:41.052] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeleton Horse (vehicle of WillOfTheBlades) moved wrongly! 0.7241680803344934
 [18Dec2024 22:47:41.098] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeleton Horse (vehicle of WillOfTheBlades) moved wrongly! 0.9330595212181834
+[18Dec2024 22:50:46.965] [Worker-Main-2/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[18Dec2024 22:51:44.997] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 22:51:45.016] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 22:55:35.341] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of WillOfTheBlades) moved wrongly! 0.34531319873349275
+[18Dec2024 22:55:35.392] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of WillOfTheBlades) moved wrongly! 0.8084238654205365
+[18Dec2024 22:55:35.441] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of WillOfTheBlades) moved wrongly! 1.273729326161174
+[18Dec2024 22:55:35.525] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of WillOfTheBlades) moved wrongly! 1.7249124776735698
+[18Dec2024 22:55:35.526] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of WillOfTheBlades) moved wrongly! 2.1405958400678173
+[18Dec2024 22:55:35.713] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of WillOfTheBlades) moved wrongly! 1.7576514127272276
+[18Dec2024 22:55:35.740] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of WillOfTheBlades) moved wrongly! 1.8143350504742557
+[18Dec2024 22:55:35.777] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of WillOfTheBlades) moved wrongly! 1.7576514127272276
+[18Dec2024 22:55:35.777] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of WillOfTheBlades) moved wrongly! 1.8514869564646688
+[18Dec2024 22:55:35.791] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of WillOfTheBlades) moved wrongly! 1.7576514127272276
+[18Dec2024 22:55:35.890] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of WillOfTheBlades) moved wrongly! 1.8814583990342726
+[18Dec2024 22:55:35.891] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of WillOfTheBlades) moved wrongly! 1.7576514127272276
+[18Dec2024 22:55:35.892] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of WillOfTheBlades) moved wrongly! 1.7576514127272276
+[18Dec2024 22:55:35.940] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of WillOfTheBlades) moved wrongly! 1.913421451600243
+[18Dec2024 22:55:35.941] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of WillOfTheBlades) moved wrongly! 2.0889796486740124
+[18Dec2024 22:55:35.993] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of WillOfTheBlades) moved wrongly! 2.2751260946674847
+[18Dec2024 22:55:36.091] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of WillOfTheBlades) moved wrongly! 2.3655527727719345
+[18Dec2024 22:56:44.994] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 22:56:45.004] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
