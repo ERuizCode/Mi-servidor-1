@@ -165,3 +165,19 @@
 [18Dec2024 01:54:45.791] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
 [18Dec2024 01:55:22.891] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: WillOfTheBlades[/127.160.8.50:58831] logged in with entity id 1554 at (-335.5864648169229, 64.0, 2432.6137877983083)
 [18Dec2024 01:55:22.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades joined the game
+[18Dec2024 01:55:52.968] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: WillOfTheBlades lost connection: Timed out
+[18Dec2024 01:55:52.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades left the game
+[18Dec2024 01:56:15.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[18Dec2024 01:56:15.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[18Dec2024 01:56:15.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[18Dec2024 01:56:15.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[18Dec2024 01:56:16.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18Dec2024 01:56:17.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[18Dec2024 01:56:17.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[18Dec2024 01:56:17.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18Dec2024 01:56:17.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18Dec2024 01:56:17.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18Dec2024 01:56:17.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18Dec2024 01:56:17.202] [Server thread/INFO] [Framework/]: Unloading server configs...
+[18Dec2024 01:56:17.205] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[18Dec2024 01:56:17.215] [Server thread/INFO] [Puzzles Lib/]: Unloading server config for enchantinginfuser
