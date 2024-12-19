@@ -81,3 +81,10 @@
 [19Dec2024 03:43:23.021] [Server thread/INFO] [tombstone/]: The player WillOfTheBlades has successfully been saved
 [19Dec2024 03:44:23.593] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
 [19Dec2024 03:53:38.479] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2100ms or 42 ticks behind
+[19Dec2024 03:55:50.098] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cesarelm238 lost connection: Disconnected
+[19Dec2024 03:55:50.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesarelm238 left the game
+[19Dec2024 03:56:05.858] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Cesarelm238[/127.50.162.126:53135] logged in with entity id 85824 at (-326.83747746755967, 63.0, 2426.699999988079)
+[19Dec2024 03:56:05.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesarelm238 joined the game
+[19Dec2024 04:06:03.985] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/76291, l='ServerLevel[world]', x=-254.73, y=65.56, z=2386.30] died, message: 'Fisherman was slain by Zombie Villager'
+[19Dec2024 04:06:09.286] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/76292, l='ServerLevel[world]', x=-256.45, y=64.94, z=2388.53] died, message: 'Fisherman was slain by Zombie Villager'
+[19Dec2024 04:06:09.986] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/76293, l='ServerLevel[world]', x=-260.72, y=64.84, z=2387.46] died, message: 'Fisherman tried to swim in lava'
