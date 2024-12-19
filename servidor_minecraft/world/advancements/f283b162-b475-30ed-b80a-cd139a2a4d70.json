@@ -4017,6 +4017,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2024-12-19 00:50:43 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/spruce_bench": {
     "criteria": {
       "has_slab": "2024-12-19 00:00:04 +0000"
