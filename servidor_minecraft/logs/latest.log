@@ -5,3 +5,5 @@
 [19Dec2024 00:18:51.444] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cesarelm238 lost connection: Timed out
 [19Dec2024 00:18:51.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesarelm238 left the game
 [19Dec2024 00:18:51.491] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19Dec2024 00:24:55.935] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Cesarelm238[/127.50.162.126:58971] logged in with entity id 26794 at (-296.84275562892367, 62.543292125710046, 2377.5075025188153)
+[19Dec2024 00:24:55.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesarelm238 joined the game

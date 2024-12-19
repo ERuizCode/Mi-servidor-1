@@ -4004,6 +4004,12 @@
     },
     "done": true
   },
+  "energizedpower:recipes/crafting/drain": {
+    "criteria": {
+      "has_iron_block": "2024-12-19 00:20:57 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/spruce_bench": {
     "criteria": {
       "has_slab": "2024-12-19 00:00:04 +0000"
@@ -4013,6 +4019,18 @@
   "another_furniture:recipes/spruce_shutter": {
     "criteria": {
       "has_slab": "2024-12-19 00:00:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-12-19 00:20:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-12-19 00:20:57 +0000"
     },
     "done": true
   },
