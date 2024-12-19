@@ -838,6 +838,7 @@
       "minecraft:spider": "2024-12-17 00:12:18 +0000",
       "minecraft:wither_skeleton": "2024-12-17 07:18:48 +0000",
       "minecraft:zombie": "2024-12-16 23:12:49 +0000",
+      "minecraft:creeper": "2024-12-19 00:01:14 +0000",
       "minecraft:hoglin": "2024-12-17 06:17:08 +0000"
     },
     "done": false
@@ -3994,6 +3995,24 @@
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2024-12-18 21:42:21 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/spruce_flower_box": {
+    "criteria": {
+      "has_slab": "2024-12-19 00:00:04 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/spruce_bench": {
+    "criteria": {
+      "has_slab": "2024-12-19 00:00:04 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/spruce_shutter": {
+    "criteria": {
+      "has_slab": "2024-12-19 00:00:04 +0000"
     },
     "done": true
   },
