@@ -4380,6 +4380,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/mastery_1": {
+    "criteria": {
+      "coded_trigger": "2024-12-19 13:07:39 +0000"
+    },
+    "done": true
+  },
   "energizedpower:main/basics/energized_power_book": {
     "criteria": {
       "has_energized_power_book": "2024-12-19 12:27:09 +0000"
