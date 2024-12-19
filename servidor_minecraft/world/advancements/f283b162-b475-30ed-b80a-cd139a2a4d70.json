@@ -4016,9 +4016,33 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-12-19 00:33:49 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/dark_oak_flower_box": {
+    "criteria": {
+      "has_slab": "2024-12-19 00:29:12 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/spruce_shutter": {
     "criteria": {
       "has_slab": "2024-12-19 00:00:04 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/dark_oak_bench": {
+    "criteria": {
+      "has_slab": "2024-12-19 00:29:12 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/dark_oak_shutter": {
+    "criteria": {
+      "has_slab": "2024-12-19 00:29:12 +0000"
     },
     "done": true
   },
