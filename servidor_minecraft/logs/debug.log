@@ -2363,3 +2363,9 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [19Dec2024 00:36:44.869] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [19Dec2024 00:37:31.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesarelm238> wwwwwwwwwwwwww
 [19Dec2024 00:37:38.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesarelm238> penepenepenpenepnepenpenepnepnepenepnepenepne
+[19Dec2024 00:41:44.864] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 00:41:44.880] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 00:46:44.864] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 00:46:44.872] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 00:50:30.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesarelm238 has made the advancement [Cover Me with Diamonds]
+[19Dec2024 00:50:43.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades has made the advancement [Cover Me with Diamonds]

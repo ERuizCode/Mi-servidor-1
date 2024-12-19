@@ -329,6 +329,7 @@
       "potato": "2024-12-16 23:29:12 +0000",
       "glow_berries": "2024-12-16 23:01:21 +0000",
       "mushroom_stew": "2024-12-16 22:44:11 +0000",
+      "cooked_beef": "2024-12-19 00:40:25 +0000",
       "baked_potato": "2024-12-17 06:01:12 +0000",
       "melon_slice": "2024-12-17 00:06:33 +0000",
       "golden_carrot": "2024-12-17 05:33:07 +0000",
@@ -3998,6 +3999,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-19 00:39:29 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/spruce_flower_box": {
     "criteria": {
       "has_slab": "2024-12-19 00:00:04 +0000"
@@ -4016,9 +4023,27 @@
     },
     "done": true
   },
+  "energizedpower:recipes/crusher/cobblestone_from_crushing_stone_variants": {
+    "criteria": {
+      "has_stone_variants": "2024-12-19 00:39:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-19 00:39:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2024-12-19 00:33:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-19 00:39:29 +0000"
     },
     "done": true
   },
@@ -4049,6 +4074,12 @@
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_iron_block": "2024-12-19 00:20:57 +0000"
+    },
+    "done": true
+  },
+  "energizedpower:recipes/crafting/press_mold_maker": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-19 00:39:29 +0000"
     },
     "done": true
   },
