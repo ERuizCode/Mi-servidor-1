@@ -48,3 +48,8 @@
 [19Dec2024 02:13:24.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades has reached the goal [Greed may lead to loss]
 [19Dec2024 02:15:34.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WillOfTheBlades> [name:"Spawn Zombies", x:-59, y:-39, z:2368, dim:minecraft:overworld]
 [19Dec2024 02:17:58.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WillOfTheBlades> - 55 2377
+[19Dec2024 02:47:42.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesarelm238 has completed the challenge [Almost Unkillable]
+[19Dec2024 02:47:42.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesarelm238 tried to swim in lava
+[19Dec2024 02:47:42.868] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Cesarelm238 with unique ID travelersbackpack.standard_19.12.2024-02.47.42.dat
+[19Dec2024 02:47:42.873] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -100 Y: -56 Z: 2385
+[19Dec2024 02:47:42.904] [Server thread/INFO] [tombstone/]: The player Cesarelm238 has successfully been saved

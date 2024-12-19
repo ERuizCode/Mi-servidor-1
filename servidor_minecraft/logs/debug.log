@@ -2451,3 +2451,17 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [19Dec2024 02:36:44.860] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [19Dec2024 02:41:44.856] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [19Dec2024 02:41:44.865] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 02:46:44.865] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 02:46:44.874] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 02:47:42.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesarelm238 has completed the challenge [Almost Unkillable]
+[19Dec2024 02:47:42.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesarelm238 tried to swim in lava
+[19Dec2024 02:47:42.868] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Cesarelm238 with unique ID travelersbackpack.standard_19.12.2024-02.47.42.dat
+[19Dec2024 02:47:42.873] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -100 Y: -56 Z: 2385
+[19Dec2024 02:47:42.895] [Server thread/DEBUG] [tombstone/]: A new grave of the player Cesarelm238 was created at position [x:-96, y:-54, z:2388, dim:minecraft:overworld]
+[19Dec2024 02:47:42.904] [Server thread/INFO] [tombstone/]: The player Cesarelm238 has successfully been saved
+[19Dec2024 02:51:44.938] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 02:51:44.954] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 02:56:44.859] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 02:56:44.868] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 03:01:44.857] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 03:01:44.864] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
