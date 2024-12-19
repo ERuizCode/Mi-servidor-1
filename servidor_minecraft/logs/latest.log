@@ -53,3 +53,7 @@
 [19Dec2024 02:47:42.868] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Cesarelm238 with unique ID travelersbackpack.standard_19.12.2024-02.47.42.dat
 [19Dec2024 02:47:42.873] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -100 Y: -56 Z: 2385
 [19Dec2024 02:47:42.904] [Server thread/INFO] [tombstone/]: The player Cesarelm238 has successfully been saved
+[19Dec2024 03:09:32.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades has reached the goal [Bone Crusher]
+[19Dec2024 03:09:42.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades has made the advancement [The Cutest Predator]
+[19Dec2024 03:10:11.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WillOfTheBlades> w
+[19Dec2024 03:10:49.691] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind

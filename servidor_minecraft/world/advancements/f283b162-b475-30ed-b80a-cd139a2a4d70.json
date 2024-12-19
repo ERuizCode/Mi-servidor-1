@@ -3999,6 +3999,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2024-12-19 03:03:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
       "has_smooth_stone": "2024-12-19 00:39:29 +0000"
@@ -4107,6 +4113,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2024-12-19 03:09:32 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/dark_oak_shutter": {
     "criteria": {
       "has_slab": "2024-12-19 00:29:12 +0000"
@@ -4119,6 +4131,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/melon": {
+    "criteria": {
+      "has_melon_slice": "2024-12-19 03:08:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_iron_block": "2024-12-19 00:20:57 +0000"
@@ -4128,6 +4146,12 @@
   "minecraft:recipes/redstone/redstone_lamp": {
     "criteria": {
       "has_glowstone": "2024-12-19 01:54:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2024-12-19 03:09:42 +0000"
     },
     "done": true
   },
