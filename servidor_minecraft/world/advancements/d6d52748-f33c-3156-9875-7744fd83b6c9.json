@@ -4343,9 +4343,117 @@
     },
     "done": true
   },
+  "energizedpower:recipes/crafting/battery_box": {
+    "criteria": {
+      "has_basic_machine_frame": "2024-12-19 12:26:19 +0000"
+    },
+    "done": true
+  },
+  "energizedpower:main/basics/energizedpower_basics": {
+    "criteria": {
+      "has_copper": "2024-12-19 12:22:29 +0000"
+    },
+    "done": true
+  },
+  "energizedpower:recipes/energizer/energized_copper_ingot": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-19 12:22:29 +0000"
+    },
+    "done": true
+  },
+  "energizedpower:recipes/crafting/lv_transformer_3_to_3": {
+    "criteria": {
+      "has_basic_machine_frame": "2024-12-19 12:26:19 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/ancient_knowledge": {
     "criteria": {
       "coded_trigger": "2024-12-19 11:05:07 +0000"
+    },
+    "done": true
+  },
+  "energizedpower:recipes/crafting/lv_transformer_1_to_n": {
+    "criteria": {
+      "has_basic_machine_frame": "2024-12-19 12:26:19 +0000"
+    },
+    "done": true
+  },
+  "energizedpower:main/basics/energized_power_book": {
+    "criteria": {
+      "has_energized_power_book": "2024-12-19 12:27:09 +0000"
+    },
+    "done": true
+  },
+  "energizedpower:recipes/crafting/metal_press": {
+    "criteria": {
+      "has_basic_machine_frame": "2024-12-19 12:26:19 +0000"
+    },
+    "done": true
+  },
+  "energizedpower:recipes/crafting/auto_crafter": {
+    "criteria": {
+      "has_basic_machine_frame": "2024-12-19 12:26:19 +0000"
+    },
+    "done": true
+  },
+  "energizedpower:recipes/charger/energized_copper_ingot": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-19 12:22:29 +0000"
+    },
+    "done": true
+  },
+  "energizedpower:recipes/crafting/block_placer": {
+    "criteria": {
+      "has_basic_machine_frame": "2024-12-19 12:26:19 +0000"
+    },
+    "done": true
+  },
+  "energizedpower:recipes/crafting/crusher": {
+    "criteria": {
+      "has_basic_machine_frame": "2024-12-19 12:26:19 +0000"
+    },
+    "done": true
+  },
+  "energizedpower:main/basics/silicon": {
+    "criteria": {
+      "has_silicon": "2024-12-19 12:22:18 +0000"
+    },
+    "done": true
+  },
+  "energizedpower:main/basics/basic_machine_frame": {
+    "criteria": {
+      "has_basic_machine_frame": "2024-12-19 12:26:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-19 12:22:29 +0000"
+    },
+    "done": true
+  },
+  "energizedpower:recipes/compressing/copper_plate_from_compressing_copper_ingot": {
+    "criteria": {
+      "has_copper": "2024-12-19 12:22:29 +0000"
+    },
+    "done": true
+  },
+  "energizedpower:recipes/crafting/fluid_drainer": {
+    "criteria": {
+      "has_basic_machine_frame": "2024-12-19 12:26:19 +0000"
+    },
+    "done": true
+  },
+  "energizedpower:recipes/crafting/charger": {
+    "criteria": {
+      "has_basic_machine_frame": "2024-12-19 12:26:19 +0000"
+    },
+    "done": true
+  },
+  "energizedpower:recipes/crafting/pulverizer": {
+    "criteria": {
+      "has_basic_machine_frame": "2024-12-19 12:26:19 +0000"
     },
     "done": true
   },
@@ -4355,9 +4463,39 @@
     },
     "done": true
   },
+  "energizedpower:recipes/crafting/fluid_filler": {
+    "criteria": {
+      "has_basic_machine_frame": "2024-12-19 12:26:19 +0000"
+    },
+    "done": true
+  },
+  "energizedpower:recipes/crafting/compressor": {
+    "criteria": {
+      "has_basic_machine_frame": "2024-12-19 12:26:19 +0000"
+    },
+    "done": true
+  },
+  "energizedpower:recipes/crafting/coal_engine": {
+    "criteria": {
+      "has_basic_machine_frame": "2024-12-19 12:26:19 +0000"
+    },
+    "done": true
+  },
+  "energizedpower:recipes/crafting/silicon_from_silicon_block": {
+    "criteria": {
+      "has_silicon_block": "2024-12-19 12:25:40 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/spider_smithing": {
     "criteria": {
       "has_spider": "2024-12-19 12:09:03 +0000"
+    },
+    "done": true
+  },
+  "energizedpower:recipes/crafting/sawmill": {
+    "criteria": {
+      "has_basic_machine_frame": "2024-12-19 12:26:19 +0000"
     },
     "done": true
   },
@@ -4367,15 +4505,87 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-19 12:22:29 +0000"
+    },
+    "done": true
+  },
+  "energizedpower:recipes/crafting/uncharger": {
+    "criteria": {
+      "has_basic_machine_frame": "2024-12-19 12:26:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-19 12:22:29 +0000"
+    },
+    "done": true
+  },
+  "energizedpower:recipes/crafting/powered_furnace": {
+    "criteria": {
+      "has_basic_machine_frame": "2024-12-19 12:26:19 +0000"
+    },
+    "done": true
+  },
+  "energizedpower:recipes/crafting/plant_growth_chamber": {
+    "criteria": {
+      "has_basic_machine_frame": "2024-12-19 12:26:19 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/use_recycling": {
     "criteria": {
       "coded_trigger": "2024-12-19 12:06:34 +0000"
     },
     "done": true
   },
+  "energizedpower:recipes/crafting/silicon_block": {
+    "criteria": {
+      "has_silicon": "2024-12-19 12:22:18 +0000"
+    },
+    "done": true
+  },
+  "energizedpower:recipes/crafting/basic_machine_frame": {
+    "criteria": {
+      "has_silicon": "2024-12-19 12:22:18 +0000"
+    },
+    "done": true
+  },
+  "energizedpower:recipes/crafting/lv_transformer_n_to_1": {
+    "criteria": {
+      "has_basic_machine_frame": "2024-12-19 12:26:19 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/find_ancient_tablet": {
     "criteria": {
       "has_ancient_tablet": "2024-12-19 11:05:07 +0000"
+    },
+    "done": true
+  },
+  "energizedpower:recipes/crafting/copper_plate": {
+    "criteria": {
+      "has_copper": "2024-12-19 12:22:29 +0000"
+    },
+    "done": true
+  },
+  "energizedpower:recipes/crafting/battery_1": {
+    "criteria": {
+      "has_copper": "2024-12-19 12:22:29 +0000"
+    },
+    "done": true
+  },
+  "energizedpower:recipes/crafting/basic_solar_cell": {
+    "criteria": {
+      "has_silicon": "2024-12-19 12:22:18 +0000"
+    },
+    "done": true
+  },
+  "energizedpower:recipes/crafting/copper_cable": {
+    "criteria": {
+      "has_copper": "2024-12-19 12:22:29 +0000"
     },
     "done": true
   },
