@@ -1,1 +1,7 @@
 [19Dec2024 00:09:11.648] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-277, y=66, z=2357} BlockPos{x=-278, y=65, z=2357}
+[19Dec2024 00:17:35.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WillOfTheBlades> quita parte del puente
+[19Dec2024 00:18:14.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WillOfTheBlades> no te esccho
+[19Dec2024 00:18:18.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WillOfTheBlades> se te corto
+[19Dec2024 00:18:51.444] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cesarelm238 lost connection: Timed out
+[19Dec2024 00:18:51.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesarelm238 left the game
+[19Dec2024 00:18:51.491] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
