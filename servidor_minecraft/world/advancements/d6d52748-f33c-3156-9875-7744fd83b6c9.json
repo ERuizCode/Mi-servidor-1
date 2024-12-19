@@ -4355,6 +4355,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/spider_smithing": {
+    "criteria": {
+      "has_spider": "2024-12-19 12:09:03 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/lapis_smithing": {
     "criteria": {
       "has_lapis": "2024-12-19 11:07:50 +0000"
