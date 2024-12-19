@@ -1,108 +1,275 @@
-[19Dec2024 00:09:11.648] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-277, y=66, z=2357} BlockPos{x=-278, y=65, z=2357}
-[19Dec2024 00:17:35.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WillOfTheBlades> quita parte del puente
-[19Dec2024 00:18:14.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WillOfTheBlades> no te esccho
-[19Dec2024 00:18:18.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WillOfTheBlades> se te corto
-[19Dec2024 00:18:51.444] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cesarelm238 lost connection: Timed out
-[19Dec2024 00:18:51.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesarelm238 left the game
-[19Dec2024 00:18:51.491] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[19Dec2024 00:24:55.935] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Cesarelm238[/127.50.162.126:58971] logged in with entity id 26794 at (-296.84275562892367, 62.543292125710046, 2377.5075025188153)
-[19Dec2024 00:24:55.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesarelm238 joined the game
-[19Dec2024 00:33:49.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades has made the advancement [What a Deal!]
-[19Dec2024 00:37:31.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesarelm238> wwwwwwwwwwwwww
-[19Dec2024 00:37:38.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesarelm238> penepenepenpenepnepenpenepnepnepenepnepenepne
-[19Dec2024 00:50:30.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesarelm238 has made the advancement [Cover Me with Diamonds]
-[19Dec2024 00:50:43.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades has made the advancement [Cover Me with Diamonds]
-[19Dec2024 00:53:06.841] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-306, y=67, z=2430} BlockPos{x=-306, y=66, z=2431}
-[19Dec2024 01:10:55.144] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of WillOfTheBlades) moved wrongly! 0.30443497935038977
-[19Dec2024 01:10:55.241] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of WillOfTheBlades) moved wrongly! 0.2667606122745383
-[19Dec2024 01:10:55.242] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of WillOfTheBlades) moved wrongly! 0.739249349396232
-[19Dec2024 01:10:55.293] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of WillOfTheBlades) moved wrongly! 1.1763253867611638
-[19Dec2024 01:10:55.342] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of WillOfTheBlades) moved wrongly! 1.5792953175332514
-[19Dec2024 01:10:55.492] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of WillOfTheBlades) moved wrongly! 2.2872180459512492
-[19Dec2024 01:10:55.494] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of WillOfTheBlades) moved wrongly! 2.1828997310090017
-[19Dec2024 01:10:55.543] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of WillOfTheBlades) moved wrongly! 2.173722345699389
-[19Dec2024 01:10:55.592] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of WillOfTheBlades) moved wrongly! 2.2872180459512492
-[19Dec2024 01:10:55.593] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of WillOfTheBlades) moved wrongly! 2.2872180459512492
-[19Dec2024 01:10:55.594] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of WillOfTheBlades) moved wrongly! 2.430498763454125
-[19Dec2024 01:10:55.642] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of WillOfTheBlades) moved wrongly! 2.2872180459512492
-[19Dec2024 01:10:55.644] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of WillOfTheBlades) moved wrongly! 2.516030903927458
-[19Dec2024 01:10:55.675] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of WillOfTheBlades) moved wrongly! 2.2872180459512492
-[19Dec2024 01:10:55.694] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of WillOfTheBlades) moved wrongly! 2.56179744696783
-[19Dec2024 01:10:55.742] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of WillOfTheBlades) moved wrongly! 2.8608656126789356
-[19Dec2024 01:17:32.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesarelm238> offhand
-[19Dec2024 01:18:18.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesarelm238> magic books can only enhcant with offhand
-[19Dec2024 01:52:08.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WillOfTheBlades> was
-[19Dec2024 01:52:10.891] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Zombie'/26368, l='ServerLevel[world]', x=-255.78, y=66.00, z=2388.79] died: Zombie was slain by Iron Golem
-[19Dec2024 01:52:15.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WillOfTheBlades> aas
-[19Dec2024 01:52:27.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesarelm238> ?
-[19Dec2024 01:52:42.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WillOfTheBlades> duerme
-[19Dec2024 01:56:03.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WillOfTheBlades> lol si dan perlas
-[19Dec2024 01:56:09.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesarelm238> te dije
-[19Dec2024 01:56:09.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WillOfTheBlades> te quiero hacer el amor bb
-[19Dec2024 01:56:11.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesarelm238> xddd
-[19Dec2024 01:56:19.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesarelm238> JAJAJ igual hazme el amor
-[19Dec2024 01:56:27.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WillOfTheBlades> te amo hermoso
-[19Dec2024 01:56:37.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesarelm238> tamo
-[19Dec2024 02:08:52.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades has made the advancement [First Prayer]
-[19Dec2024 02:08:58.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades has made the advancement [Where Is The Stone Pen?]
-[19Dec2024 02:13:24.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades has reached the goal [Greed may lead to loss]
-[19Dec2024 02:15:34.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WillOfTheBlades> [name:"Spawn Zombies", x:-59, y:-39, z:2368, dim:minecraft:overworld]
-[19Dec2024 02:17:58.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WillOfTheBlades> - 55 2377
-[19Dec2024 02:47:42.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesarelm238 has completed the challenge [Almost Unkillable]
-[19Dec2024 02:47:42.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesarelm238 tried to swim in lava
-[19Dec2024 02:47:42.868] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Cesarelm238 with unique ID travelersbackpack.standard_19.12.2024-02.47.42.dat
-[19Dec2024 02:47:42.873] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -100 Y: -56 Z: 2385
-[19Dec2024 02:47:42.904] [Server thread/INFO] [tombstone/]: The player Cesarelm238 has successfully been saved
-[19Dec2024 03:09:32.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades has reached the goal [Bone Crusher]
-[19Dec2024 03:09:42.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades has made the advancement [The Cutest Predator]
-[19Dec2024 03:10:11.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WillOfTheBlades> w
-[19Dec2024 03:10:49.691] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
-[19Dec2024 03:12:39.967] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
-[19Dec2024 03:12:57.149] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2219ms or 44 ticks behind
-[19Dec2024 03:14:21.991] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2611ms or 52 ticks behind
-[19Dec2024 03:14:45.754] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8774ms or 175 ticks behind
-[19Dec2024 03:15:07.452] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-890, y=56, z=1312} BlockPos{x=-889, y=55, z=1313}
-[19Dec2024 03:16:19.175] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2695ms or 53 ticks behind
-[19Dec2024 03:16:37.062] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2933ms or 58 ticks behind
-[19Dec2024 03:16:55.525] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3495ms or 69 ticks behind
-[19Dec2024 03:17:13.874] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3394ms or 67 ticks behind
-[19Dec2024 03:17:39.745] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10915ms or 218 ticks behind
-[19Dec2024 03:18:00.157] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5427ms or 108 ticks behind
-[19Dec2024 03:19:27.022] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2092ms or 41 ticks behind
-[19Dec2024 03:23:15.808] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14628ms or 292 ticks behind
-[19Dec2024 03:24:07.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesarelm238 has made the advancement [Neighborhood Brawl]
-[19Dec2024 03:27:14.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesarelm238> [name:"ENTRADA CUEVA PARA EL NETHER", x:-130, y:105, z:323, dim:minecraft:the_nether]
-[19Dec2024 03:28:37.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesarelm238> [name:"portal nether", x:-31, y:105, z:324, dim:minecraft:the_nether]
-[19Dec2024 03:28:57.868] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6688ms or 133 ticks behind
-[19Dec2024 03:43:23.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades has completed the challenge [Almost Unkillable]
-[19Dec2024 03:43:23.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades was doomed to fall
-[19Dec2024 03:43:23.010] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for WillOfTheBlades with unique ID travelersbackpack.cake_19.12.2024-03.43.23.dat
-[19Dec2024 03:43:23.012] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -68 Y: -42 Z: 2369
-[19Dec2024 03:43:23.021] [Server thread/INFO] [tombstone/]: The player WillOfTheBlades has successfully been saved
-[19Dec2024 03:44:23.593] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
-[19Dec2024 03:53:38.479] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2100ms or 42 ticks behind
-[19Dec2024 03:55:50.098] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cesarelm238 lost connection: Disconnected
-[19Dec2024 03:55:50.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesarelm238 left the game
-[19Dec2024 03:56:05.858] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Cesarelm238[/127.50.162.126:53135] logged in with entity id 85824 at (-326.83747746755967, 63.0, 2426.699999988079)
-[19Dec2024 03:56:05.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesarelm238 joined the game
-[19Dec2024 04:06:03.985] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/76291, l='ServerLevel[world]', x=-254.73, y=65.56, z=2386.30] died, message: 'Fisherman was slain by Zombie Villager'
-[19Dec2024 04:06:09.286] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/76292, l='ServerLevel[world]', x=-256.45, y=64.94, z=2388.53] died, message: 'Fisherman was slain by Zombie Villager'
-[19Dec2024 04:06:09.986] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/76293, l='ServerLevel[world]', x=-260.72, y=64.84, z=2387.46] died, message: 'Fisherman tried to swim in lava'
-[19Dec2024 04:18:15.010] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cesarelm238 lost connection: Disconnected
-[19Dec2024 04:18:15.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesarelm238 left the game
-[19Dec2024 04:18:48.793] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: WillOfTheBlades lost connection: Disconnected
-[19Dec2024 04:18:48.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades left the game
-[19Dec2024 04:19:03.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[19Dec2024 04:19:03.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[19Dec2024 04:19:03.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[19Dec2024 04:19:03.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[19Dec2024 04:19:03.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[19Dec2024 04:19:05.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[19Dec2024 04:19:05.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[19Dec2024 04:19:05.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19Dec2024 04:19:05.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19Dec2024 04:19:05.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[19Dec2024 04:19:05.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
-[19Dec2024 04:19:05.230] [Server thread/INFO] [Framework/]: Unloading server configs...
-[19Dec2024 04:19:05.231] [Server thread/INFO] [Framework/]: Finished unloading server configs
-[19Dec2024 04:19:05.243] [Server thread/INFO] [Puzzles Lib/]: Unloading server config for enchantinginfuser
+[19Dec2024 04:21:15.560] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server]
+[19Dec2024 04:21:15.563] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Microsoft OpenJDK 64-Bit Server VM 21.0.4+7-LTS
+[19Dec2024 04:21:15.565] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.1.2 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
+[19Dec2024 04:21:16.158] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
+[19Dec2024 04:21:16.365] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=jar:file:///workspaces/Mi-servidor-1/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar!/ Service=ModLauncher Env=SERVER
+[19Dec2024 04:21:17.101] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 3 dependencies adding them to mods collection
+[19Dec2024 04:21:18.911] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[19Dec2024 04:21:19.052] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments []
+[19Dec2024 04:21:19.147] [main/WARN] [mixin/]: Reference map 'ForgeConfigAPIPort-Common-refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[19Dec2024 04:21:19.351] [main/WARN] [mixin/]: Reference map 'ForgeConfigAPIPort-Forge-refmap.json' for forgeconfigapiport.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[19Dec2024 04:21:19.369] [main/WARN] [mixin/]: Reference map 'CerbonsAPI-Forge-1.20.4-forge-refmap.json' for cerbons_api.mixins.json could not be read. If this is a development environment you can ignore this message
+[19Dec2024 04:21:19.460] [main/INFO] [Puzzles Lib/]: Loading 28 mods:
+	- another_furniture 1.20.1-3.0.1
+	- balm 9.0.9
+	- bosses_of_mass_destruction 1.2.0
+		\-- mixinextras 0.3.5
+	- catalogue 1.9.1
+	- cerbons_api 1.1.1
+	- cloth_config 13.0.138
+	- collective 7.64
+	- enchantinginfuser 20.4.1
+	- energizedpower 1.20.4-2.9.13-forge
+	- fantasy_armor 0.5-1.20.1
+	- fantasy_weapons 0.2-1.20.1
+	- forge 49.1.4
+	- forgeconfigapiport 20.4.3
+	- framework 0.7.12
+	- geckolib 4.4.4
+	- hopo 1.2.2
+	- hopour 1.1.6
+	- minecraft 1.20.4
+	- moretotems 2.17.0
+	- naturescompass 1.20.4-1.11.5-forge
+	- puzzleslib 20.4.52
+	- simplyharvesting 1.20-2.0.0
+	- terralith 2.5.4
+	- tombstone 8.6.4
+	- travelersbackpack 9.4.3
+	- treeharvester 8.7
+	- waystones 16.0.5
+[19Dec2024 04:21:19.483] [main/WARN] [mixin/]: Reference map 'enchantinginfuser.common.refmap.json' for enchantinginfuser.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[19Dec2024 04:21:19.485] [main/WARN] [mixin/]: Reference map 'enchantinginfuser.forge.refmap.json' for enchantinginfuser.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[19Dec2024 04:21:21.189] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/components/BossHealthOverlay for invalid dist DEDICATED_SERVER
+[19Dec2024 04:21:21.193] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/components/BossHealthOverlay (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/components/BossHealthOverlay for invalid dist DEDICATED_SERVER)
+[19Dec2024 04:21:21.195] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.components.BossHealthOverlay was not found bosses_of_mass_destruction-common.mixins.json:BossHealthOverlayMixin
+[19Dec2024 04:21:21.709] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[19Dec2024 04:21:22.321] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.properties file on the classpath: [jar:file:///workspaces/Mi-servidor-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/workspaces/Mi-servidor-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/workspaces/Mi-servidor-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:///workspaces/Mi-servidor-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/workspaces/Mi-servidor-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/workspaces/Mi-servidor-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:///workspaces/Mi-servidor-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/workspaces/Mi-servidor-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/workspaces/Mi-servidor-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:///workspaces/Mi-servidor-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/workspaces/Mi-servidor-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/workspaces/Mi-servidor-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties]
+[19Dec2024 04:21:22.463] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath: [jar:file:///workspaces/Mi-servidor-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/workspaces/Mi-servidor-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/workspaces/Mi-servidor-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:///workspaces/Mi-servidor-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/workspaces/Mi-servidor-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/workspaces/Mi-servidor-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:///workspaces/Mi-servidor-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/workspaces/Mi-servidor-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/workspaces/Mi-servidor-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:///workspaces/Mi-servidor-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/workspaces/Mi-servidor-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/workspaces/Mi-servidor-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties]
+[19Dec2024 04:21:32.276] [modloading-worker-0/INFO] [me.jddev0.ep.config.ModConfigs/]: Energized Power common config was successfully loaded
+[19Dec2024 04:21:32.277] [modloading-worker-0/INFO] [me.jddev0.ep.config.ModConfigs/]: Energized Power server config was successfully loaded
+[19Dec2024 04:21:32.731] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 7.64.
+[19Dec2024 04:21:33.312] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[19Dec2024 04:21:33.468] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 49.1.4, for MC 1.20.4 with MCP 20231207.112700
+[19Dec2024 04:21:33.469] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v49.1.4 Initialized
+[19Dec2024 04:21:33.500] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
+[19Dec2024 04:21:33.548] [modloading-worker-0/INFO] [MoreTotems/]: Hello Forge world!
+[19Dec2024 04:21:33.644] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for enchantinginfuser:main
+[19Dec2024 04:21:37.360] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[19Dec2024 04:21:37.366] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[19Dec2024 04:21:37.366] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[19Dec2024 04:21:37.368] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[19Dec2024 04:21:37.894] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [simplyharvesting] Starting version check at https://assets.melanx.de/updates/simply-harvesting.json
+[19Dec2024 04:21:38.859] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [simplyharvesting] Found status: BETA Current: 1.20-2.0.0 Target: null
+[19Dec2024 04:21:38.859] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forgeconfigapiport] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/forgeconfigapiport.json
+[19Dec2024 04:21:38.993] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forgeconfigapiport] Found status: UP_TO_DATE Current: 20.4.3 Target: null
+[19Dec2024 04:21:38.994] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[19Dec2024 04:21:39.091] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: AHEAD Current: 9.4.3 Target: null
+[19Dec2024 04:21:39.092] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[19Dec2024 04:21:39.175] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 8.6.4 Target: null
+[19Dec2024 04:21:39.175] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [catalogue] Starting version check at https://mrcrayfish.com/modupdatejson?id=catalogue&loader=forge
+[19Dec2024 04:21:39.766] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [catalogue] Found status: BETA Current: 1.9.1 Target: 1.9.1
+[19Dec2024 04:21:39.766] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[19Dec2024 04:21:39.778] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 20.4.52 Target: null
+[19Dec2024 04:21:39.778] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[19Dec2024 04:21:40.135] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA Current: 0.7.12 Target: 0.7.12
+[19Dec2024 04:21:40.136] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[19Dec2024 04:21:40.338] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 49.1.4 Target: 49.1.13
+[19Dec2024 04:21:40.338] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchantinginfuser] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/enchantinginfuser.json
+[19Dec2024 04:21:40.356] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchantinginfuser] Found status: UP_TO_DATE Current: 20.4.1 Target: null
+[19Dec2024 04:21:47.464] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19Dec2024 04:21:58.650] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 24 recipes
+[19Dec2024 04:21:59.585] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 2163 advancements
+[19Dec2024 04:22:04.346] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.4
+[19Dec2024 04:22:04.347] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[19Dec2024 04:22:04.348] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[19Dec2024 04:22:04.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[19Dec2024 04:22:04.517] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[19Dec2024 04:22:04.585] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[19Dec2024 04:22:04.670] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19Dec2024 04:22:04.671] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[19Dec2024 04:22:04.671] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19Dec2024 04:22:04.672] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[19Dec2024 04:22:04.740] [Server thread/INFO] [Puzzles Lib/]: Loading server config for enchantinginfuser
+[19Dec2024 04:22:04.743] [Thread-1/INFO] [Puzzles Lib/]: Reloading server config for enchantinginfuser
+[19Dec2024 04:22:04.808] [Server thread/INFO] [Framework/]: Loading server configs...
+[19Dec2024 04:22:04.856] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[19Dec2024 04:22:05.738] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/127.50.162.126:39281] Disconnecting MODDED connection attempt: Server is still starting! Please wait before reconnecting.
+[19Dec2024 04:22:06.247] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.custom.obsidilith.ObsidilithEntity from class com.cerbon.bosses_of_mass_destruction.entity.custom.obsidilith.ObsidilithUtils
+[19Dec2024 04:22:06.252] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.custom.gauntlet.GauntletEntity from class com.cerbon.bosses_of_mass_destruction.projectile.PetalBladeProjectile
+[19Dec2024 04:22:06.268] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.util.BaseEntity from class com.cerbon.bosses_of_mass_destruction.entity.custom.void_blossom.hitbox.NetworkedHitboxManager
+[19Dec2024 04:22:17.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[19Dec2024 04:22:27.325] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Dec2024 04:22:27.330] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Dec2024 04:22:27.332] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Dec2024 04:22:27.338] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Dec2024 04:22:27.342] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Dec2024 04:22:27.345] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Dec2024 04:22:27.346] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Dec2024 04:22:27.347] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Dec2024 04:22:27.348] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Dec2024 04:22:27.349] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Dec2024 04:22:27.350] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Dec2024 04:22:27.352] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Dec2024 04:22:27.354] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Dec2024 04:22:27.356] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Dec2024 04:22:27.358] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Dec2024 04:22:27.359] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Dec2024 04:22:27.360] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Dec2024 04:22:27.363] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Dec2024 04:22:27.366] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Dec2024 04:22:27.368] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Dec2024 04:22:27.722] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Dec2024 04:22:28.222] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Dec2024 04:22:28.721] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Dec2024 04:22:29.221] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Dec2024 04:22:29.740] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 11%
+[19Dec2024 04:22:30.108] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 12387 ms
+[19Dec2024 04:22:30.109] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (25.414s)! For help, type "help"
+[19Dec2024 04:22:30.144] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[19Dec2024 04:22:46.445] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Cesarelm238[/127.50.162.126:37989] logged in with entity id 262 at (-279.30000001192093, 70.0, 2389.699999988079)
+[19Dec2024 04:22:46.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesarelm238 joined the game
+[19Dec2024 04:22:50.270] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3969ms or 79 ticks behind
+[19Dec2024 04:23:09.571] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4319ms or 86 ticks behind
+[19Dec2024 04:38:04.017] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: WillOfTheBlades[/127.160.8.50:47655] logged in with entity id 3725 at (-329.90289192950274, 63.0, 2424.96779426052)
+[19Dec2024 04:38:04.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades joined the game
+[19Dec2024 04:39:15.868] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/3198, l='ServerLevel[world]', x=-327.50, y=63.00, z=2331.76] died, message: 'Librarian was slain by WillOfTheBlades'
+[19Dec2024 04:39:15.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades has made the advancement [Neighborhood Brawl]
+[19Dec2024 04:42:28.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesarelm238 has made the advancement [Enchanter]
+[19Dec2024 04:48:02.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesarelm238> UNHEAD
+[19Dec2024 04:48:08.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesarelm238> UNDEAD
+[19Dec2024 05:01:01.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesarelm238> +
+[19Dec2024 05:03:54.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesarelm238 has made the advancement [Diamonds!]
+[19Dec2024 05:18:54.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades has made the advancement [Local Brewery]
+[19Dec2024 05:30:23.182] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=128, y=120, z=2565} BlockPos{x=129, y=120, z=2566}
+[19Dec2024 05:30:28.781] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=138, y=126, z=2569} BlockPos{x=136, y=125, z=2569}
+[19Dec2024 05:30:30.712] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=136, y=127, z=2570} BlockPos{x=136, y=126, z=2571}
+[19Dec2024 05:30:30.761] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=136, y=127, z=2570} BlockPos{x=136, y=126, z=2571}
+[19Dec2024 05:30:30.813] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=136, y=127, z=2570} BlockPos{x=136, y=126, z=2571}
+[19Dec2024 05:31:35.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesarelm238 has made the advancement [Light as a Rabbit]
+[19Dec2024 05:31:40.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades has made the advancement [Light as a Rabbit]
+[19Dec2024 05:38:32.000] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2448ms or 48 ticks behind
+[19Dec2024 05:42:11.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades has made the advancement [Who is Cutting Onions?]
+[19Dec2024 05:42:52.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesarelm238 has made the advancement [Who is Cutting Onions?]
+[19Dec2024 05:47:38.894] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 55842ms or 1116 ticks behind
+[19Dec2024 05:47:38.906] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cesarelm238 lost connection: Disconnected
+[19Dec2024 05:47:38.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesarelm238 left the game
+[19Dec2024 05:47:38.921] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: WillOfTheBlades lost connection: Disconnected
+[19Dec2024 05:47:38.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades left the game
+[19Dec2024 05:47:47.229] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Cesarelm238[/127.50.162.126:59033] logged in with entity id 21576 at (762.2183120698348, 33.4120403252637, 2837.865278386152)
+[19Dec2024 05:47:47.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesarelm238 joined the game
+[19Dec2024 05:47:52.555] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: WillOfTheBlades[/127.160.8.50:35593] logged in with entity id 21855 at (775.5526432318104, 33.0, 2838.3065466173084)
+[19Dec2024 05:47:52.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades joined the game
+[19Dec2024 05:57:11.084] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 39933ms or 798 ticks behind
+[19Dec2024 05:57:11.104] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cesarelm238 lost connection: Disconnected
+[19Dec2024 05:57:11.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesarelm238 left the game
+[19Dec2024 05:57:11.119] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: WillOfTheBlades lost connection: Disconnected
+[19Dec2024 05:57:11.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades left the game
+[19Dec2024 05:57:23.731] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: WillOfTheBlades[/127.160.8.50:56473] logged in with entity id 24811 at (1157.300000011921, 60.0, 2937.7585117233707)
+[19Dec2024 05:57:23.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades joined the game
+[19Dec2024 05:58:13.159] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Cesarelm238[/127.50.162.126:44425] logged in with entity id 25398 at (1141.0446236276475, 60.959091237564465, 2945.0976548727067)
+[19Dec2024 05:58:13.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesarelm238 joined the game
+[19Dec2024 06:00:47.228] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1497, y=66, z=3087} BlockPos{x=1498, y=65, z=3086}
+[19Dec2024 06:00:47.247] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1497, y=66, z=3087} BlockPos{x=1498, y=65, z=3086}
+[19Dec2024 06:01:46.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesarelm238> HAY QUE SALIR DE AQUI
+[19Dec2024 06:01:53.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WillOfTheBlades> pq
+[19Dec2024 06:01:56.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesarelm238> LAG
+[19Dec2024 06:21:09.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesarelm238 was blown up by Night Lich
+[19Dec2024 06:21:09.979] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Cesarelm238 with unique ID travelersbackpack.standard_19.12.2024-06.21.09.dat
+[19Dec2024 06:21:09.991] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 2364 Y: 90 Z: 3408
+[19Dec2024 06:21:10.023] [Server thread/INFO] [tombstone/]: The player Cesarelm238 has successfully been saved
+[19Dec2024 06:21:18.213] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[19Dec2024 06:27:14.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades was blown up by Night Lich
+[19Dec2024 06:27:14.346] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for WillOfTheBlades with unique ID travelersbackpack.cake_19.12.2024-06.27.14.dat
+[19Dec2024 06:27:14.348] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 2404 Y: 63 Z: 3408
+[19Dec2024 06:27:14.366] [Server thread/INFO] [tombstone/]: The player WillOfTheBlades has successfully been saved
+[19Dec2024 06:27:21.162] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2710ms or 54 ticks behind
+[19Dec2024 06:27:57.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades has reached the goal [Chain Death]
+[19Dec2024 06:27:57.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades was blown up by Night Lich
+[19Dec2024 06:27:57.277] [Server thread/INFO] [tombstone/]: The player WillOfTheBlades has successfully been saved
+[19Dec2024 06:28:04.764] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3263ms or 65 ticks behind
+[19Dec2024 06:33:40.705] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[19Dec2024 06:34:35.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesarelm238 was blown up by Night Lich
+[19Dec2024 06:34:35.376] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Cesarelm238 with unique ID travelersbackpack.standard_19.12.2024-06.34.35.dat
+[19Dec2024 06:34:35.377] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 2399 Y: 59 Z: 3427
+[19Dec2024 06:34:35.396] [Server thread/INFO] [tombstone/]: The player Cesarelm238 has successfully been saved
+[19Dec2024 06:35:00.897] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2046ms or 40 ticks behind
+[19Dec2024 06:36:37.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades was blown up by Night Lich
+[19Dec2024 06:36:37.619] [Server thread/INFO] [tombstone/]: The player WillOfTheBlades has successfully been saved
+[19Dec2024 06:36:44.711] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3209ms or 64 ticks behind
+[19Dec2024 06:37:52.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades was blown up by Night Lich
+[19Dec2024 06:37:52.278] [Server thread/INFO] [tombstone/]: The player WillOfTheBlades has successfully been saved
+[19Dec2024 06:38:00.024] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[19Dec2024 06:39:25.981] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3930ms or 78 ticks behind
+[19Dec2024 06:39:26.020] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: WillOfTheBlades moved too quickly! 0.6898299786439566,0.0,9.994038967383858
+[19Dec2024 06:44:29.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesarelm238 has reached the goal [Ally Enhancer]
+[19Dec2024 06:46:10.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesarelm238 has made the advancement [Take Aim]
+[19Dec2024 06:46:23.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesarelm238 was blown up by Night Lich
+[19Dec2024 06:46:23.473] [Server thread/INFO] [tombstone/]: The player Cesarelm238 has successfully been saved
+[19Dec2024 06:46:30.911] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3459ms or 69 ticks behind
+[19Dec2024 06:47:40.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesarelm238 was blown up by Night Lich
+[19Dec2024 06:47:40.868] [Server thread/INFO] [tombstone/]: The player Cesarelm238 has successfully been saved
+[19Dec2024 06:47:46.996] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2744ms or 54 ticks behind
+[19Dec2024 06:47:50.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades was pummeled by Night Lich
+[19Dec2024 06:47:50.858] [Server thread/INFO] [tombstone/]: The player WillOfTheBlades has successfully been saved
+[19Dec2024 06:51:21.039] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: WillOfTheBlades moved too quickly! 4.339987103611293,-0.22768848754498805,-9.102242666980601
+[19Dec2024 06:55:45.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades was blown up by Night Lich
+[19Dec2024 06:55:45.426] [Server thread/INFO] [tombstone/]: The player WillOfTheBlades has successfully been saved
+[19Dec2024 06:55:52.138] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3286ms or 65 ticks behind
+[19Dec2024 06:56:53.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesarelm238 was blown up by Night Lich
+[19Dec2024 06:56:53.823] [Server thread/INFO] [tombstone/]: The player Cesarelm238 has successfully been saved
+[19Dec2024 06:56:59.985] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2133ms or 42 ticks behind
+[19Dec2024 06:58:34.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades was blown up by Night Lich
+[19Dec2024 06:58:34.377] [Server thread/INFO] [tombstone/]: The player WillOfTheBlades has successfully been saved
+[19Dec2024 06:58:51.910] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[19Dec2024 07:07:30.877] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cesarelm238 lost connection: Disconnected
+[19Dec2024 07:07:30.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesarelm238 left the game
+[19Dec2024 07:07:51.042] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Cesarelm238[/127.50.162.126:41477] logged in with entity id 50026 at (-330.40147716465594, 63.0, 2350.0657027272805)
+[19Dec2024 07:07:51.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesarelm238 joined the game
+[19Dec2024 07:12:54.279] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of WillOfTheBlades) moved wrongly! 0.2939194656843256
+[19Dec2024 07:12:54.316] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of WillOfTheBlades) moved wrongly! 0.5763006010487288
+[19Dec2024 07:12:54.366] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of WillOfTheBlades) moved wrongly! 0.8542037647601433
+[19Dec2024 07:12:54.417] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of WillOfTheBlades) moved wrongly! 1.1278142845723096
+[19Dec2024 07:12:54.429] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of WillOfTheBlades) moved wrongly! 1.419032386241497
+[19Dec2024 07:42:04.430] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-80, y=-51, z=2374} BlockPos{x=-81, y=-51, z=2373}
+[19Dec2024 07:42:36.280] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-71, y=-48, z=2376} BlockPos{x=-72, y=-48, z=2376}
+[19Dec2024 07:44:27.345] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-83, y=-54, z=2373} BlockPos{x=-83, y=-54, z=2374}
+[19Dec2024 07:44:28.227] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-83, y=-54, z=2373} BlockPos{x=-83, y=-55, z=2372}
+[19Dec2024 07:44:28.387] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-84, y=-54, z=2374} BlockPos{x=-84, y=-55, z=2373}
+[19Dec2024 07:44:36.548] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-89, y=-50, z=2377} BlockPos{x=-89, y=-49, z=2378}
+[19Dec2024 07:44:36.575] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-89, y=-50, z=2377} BlockPos{x=-89, y=-49, z=2378}
+[19Dec2024 07:45:30.328] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-71, y=-47, z=2374} BlockPos{x=-71, y=-47, z=2373}
+[19Dec2024 08:01:34.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades was slain by Vindicator
+[19Dec2024 08:01:34.122] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for WillOfTheBlades with unique ID travelersbackpack.cake_19.12.2024-08.01.34.dat
+[19Dec2024 08:01:34.124] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -324 Y: 63 Z: 2333
+[19Dec2024 08:01:34.146] [Server thread/INFO] [tombstone/]: The player WillOfTheBlades has successfully been saved
+[19Dec2024 08:04:17.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesarelm238 was slain by Vindicator
+[19Dec2024 08:04:17.210] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Cesarelm238 with unique ID travelersbackpack.standard_19.12.2024-08.04.17.dat
+[19Dec2024 08:04:17.211] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -321 Y: 64 Z: 2339
+[19Dec2024 08:04:17.227] [Server thread/INFO] [tombstone/]: The player Cesarelm238 has successfully been saved
+[19Dec2024 08:04:31.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades has completed the challenge [Village Defender]
+[19Dec2024 08:05:30.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades was killed by Evoker using magic
+[19Dec2024 08:05:30.124] [Server thread/INFO] [tombstone/]: The player WillOfTheBlades has successfully been saved
+[19Dec2024 08:05:50.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesarelm238 has reached the goal [Postmortal]
+[19Dec2024 08:05:50.070] [Server thread/INFO] [tombstone/]: The player Cesarelm238 has successfully been saved
+[19Dec2024 08:05:55.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesarelm238 was slain by Vex
+[19Dec2024 08:05:55.869] [Server thread/INFO] [tombstone/]: The player Cesarelm238 has successfully been saved
+[19Dec2024 08:08:07.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades has reached the goal [Postmortal]
+[19Dec2024 08:08:07.775] [Server thread/INFO] [tombstone/]: The player WillOfTheBlades has successfully been saved
+[19Dec2024 08:08:09.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades was slain by Vex
+[19Dec2024 08:08:09.175] [Server thread/INFO] [tombstone/]: The player WillOfTheBlades has successfully been saved
+[19Dec2024 08:08:49.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades was slain by Vex
+[19Dec2024 08:08:49.474] [Server thread/INFO] [tombstone/]: The player WillOfTheBlades has successfully been saved
+[19Dec2024 08:09:38.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesarelm238 was slain by Vex
+[19Dec2024 08:09:38.824] [Server thread/INFO] [tombstone/]: The player Cesarelm238 has successfully been saved
+[19Dec2024 08:11:02.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades was slain by Vex
+[19Dec2024 08:11:02.142] [Server thread/INFO] [tombstone/]: The player WillOfTheBlades has successfully been saved
+[19Dec2024 08:11:16.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesarelm238 has completed the challenge [Village Defender]
+[19Dec2024 08:11:24.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades was killed by Witch using magic
+[19Dec2024 08:11:24.867] [Server thread/INFO] [tombstone/]: The player WillOfTheBlades has successfully been saved
+[19Dec2024 08:11:32.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades has completed the challenge [Hero of the Village]
+[19Dec2024 08:11:32.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesarelm238 has completed the challenge [Hero of the Village]
+[19Dec2024 08:15:15.764] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cesarelm238 lost connection: Disconnected
+[19Dec2024 08:15:15.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesarelm238 left the game
+[19Dec2024 08:28:09.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WillOfTheBlades> es
+[19Dec2024 08:29:04.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WillOfTheBlades> ws
