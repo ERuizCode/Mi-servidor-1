@@ -2436,3 +2436,14 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [19Dec2024 02:08:58.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades has made the advancement [Where Is The Stone Pen?]
 [19Dec2024 02:11:44.864] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [19Dec2024 02:11:44.879] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 02:13:24.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades has reached the goal [Greed may lead to loss]
+[19Dec2024 02:15:34.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WillOfTheBlades> [name:"Spawn Zombies", x:-59, y:-39, z:2368, dim:minecraft:overworld]
+[19Dec2024 02:16:44.900] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 02:16:44.932] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 02:17:58.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WillOfTheBlades> - 55 2377
+[19Dec2024 02:21:44.857] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 02:21:44.866] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 02:26:44.857] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 02:26:44.869] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 02:31:44.848] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 02:31:44.854] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
