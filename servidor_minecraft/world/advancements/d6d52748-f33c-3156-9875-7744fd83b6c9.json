@@ -3825,6 +3825,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/neighborhood_brawl": {
+    "criteria": {
+      "coded_trigger": "2024-12-19 03:24:07 +0000"
+    },
+    "done": true
+  },
   "energizedpower:recipes/crafting/tin_ingot_from_tin_block": {
     "criteria": {
       "has_tin_block": "2024-12-19 01:24:52 +0000"
