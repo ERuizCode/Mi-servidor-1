@@ -4349,9 +4349,21 @@
     },
     "done": true
   },
+  "tombstone:adventure/soul_magic": {
+    "criteria": {
+      "coded_trigger": "2024-12-19 12:06:34 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/lapis_smithing": {
     "criteria": {
       "has_lapis": "2024-12-19 11:07:50 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_recycling": {
+    "criteria": {
+      "coded_trigger": "2024-12-19 12:06:34 +0000"
     },
     "done": true
   },
