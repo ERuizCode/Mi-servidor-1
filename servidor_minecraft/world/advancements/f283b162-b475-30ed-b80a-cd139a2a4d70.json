@@ -4559,21 +4559,9 @@
     },
     "done": true
   },
-  "energizedpower:main/basics/silicon": {
+  "tombstone:adventure/find_ancient_tablet": {
     "criteria": {
-      "has_silicon": "2024-12-19 12:22:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/spruce_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2024-12-19 12:27:58 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/spider_smithing": {
-    "criteria": {
-      "has_spider": "2024-12-19 13:21:04 +0000"
+      "has_ancient_tablet": "2024-12-19 11:05:54 +0000"
     },
     "done": true
   },
@@ -4583,9 +4571,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+  "energizedpower:main/basics/silicon": {
     "criteria": {
-      "has_log": "2024-12-19 12:27:58 +0000"
+      "has_silicon": "2024-12-19 12:22:28 +0000"
     },
     "done": true
   },
@@ -4601,15 +4589,27 @@
     },
     "done": true
   },
-  "tombstone:adventure/find_ancient_tablet": {
-    "criteria": {
-      "has_ancient_tablet": "2024-12-19 11:05:54 +0000"
-    },
-    "done": true
-  },
   "energizedpower:recipes/crafting/basic_solar_cell": {
     "criteria": {
       "has_silicon": "2024-12-19 12:22:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-12-19 12:27:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2024-12-19 12:27:58 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/spider_smithing": {
+    "criteria": {
+      "has_spider": "2024-12-19 13:21:04 +0000"
     },
     "done": true
   },
