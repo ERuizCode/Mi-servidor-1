@@ -4011,6 +4011,12 @@
     },
     "done": true
   },
+  "waystones:recipes/decorations/warp_scroll": {
+    "criteria": {
+      "has_ender_pearl": "2024-12-19 01:55:58 +0000"
+    },
+    "done": true
+  },
   "energizedpower:recipes/crafting/drain": {
     "criteria": {
       "has_iron_block": "2024-12-19 00:20:57 +0000"
@@ -4047,9 +4053,21 @@
     },
     "done": true
   },
+  "waystones:recipes/decorations/warp_stone": {
+    "criteria": {
+      "has_ender_pearl": "2024-12-19 01:55:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2024-12-19 00:33:49 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/warp_dust": {
+    "criteria": {
+      "has_ender_pearl": "2024-12-19 01:55:58 +0000"
     },
     "done": true
   },
@@ -4083,9 +4101,21 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/enderman": {
+    "criteria": {
+      "has_ender_pearl": "2024-12-19 01:55:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_iron_block": "2024-12-19 00:20:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2024-12-19 01:54:16 +0000"
     },
     "done": true
   },
