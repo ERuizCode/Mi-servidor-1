@@ -88,3 +88,21 @@
 [19Dec2024 04:06:03.985] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/76291, l='ServerLevel[world]', x=-254.73, y=65.56, z=2386.30] died, message: 'Fisherman was slain by Zombie Villager'
 [19Dec2024 04:06:09.286] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/76292, l='ServerLevel[world]', x=-256.45, y=64.94, z=2388.53] died, message: 'Fisherman was slain by Zombie Villager'
 [19Dec2024 04:06:09.986] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/76293, l='ServerLevel[world]', x=-260.72, y=64.84, z=2387.46] died, message: 'Fisherman tried to swim in lava'
+[19Dec2024 04:18:15.010] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cesarelm238 lost connection: Disconnected
+[19Dec2024 04:18:15.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesarelm238 left the game
+[19Dec2024 04:18:48.793] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: WillOfTheBlades lost connection: Disconnected
+[19Dec2024 04:18:48.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades left the game
+[19Dec2024 04:19:03.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[19Dec2024 04:19:03.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[19Dec2024 04:19:03.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[19Dec2024 04:19:03.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[19Dec2024 04:19:03.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19Dec2024 04:19:05.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[19Dec2024 04:19:05.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[19Dec2024 04:19:05.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19Dec2024 04:19:05.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19Dec2024 04:19:05.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19Dec2024 04:19:05.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[19Dec2024 04:19:05.230] [Server thread/INFO] [Framework/]: Unloading server configs...
+[19Dec2024 04:19:05.231] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[19Dec2024 04:19:05.243] [Server thread/INFO] [Puzzles Lib/]: Unloading server config for enchantinginfuser
