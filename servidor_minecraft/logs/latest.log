@@ -141,3 +141,4 @@
 [19Dec2024 23:06:05.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades joined the game
 [19Dec2024 23:06:13.613] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8599ms or 171 ticks behind
 [19Dec2024 23:06:40.486] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11922ms or 238 ticks behind
+[19Dec2024 23:21:45.799] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/495, l='ServerLevel[world]', x=-327.39, y=63.13, z=2337.87] died, message: 'Librarian was slain by WillOfTheBlades'
