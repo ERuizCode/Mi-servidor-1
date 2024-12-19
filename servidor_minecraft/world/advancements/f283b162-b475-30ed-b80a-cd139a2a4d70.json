@@ -4613,5 +4613,11 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/villager_smithing": {
+    "criteria": {
+      "has_villager": "2024-12-19 23:21:17 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3700
 }
