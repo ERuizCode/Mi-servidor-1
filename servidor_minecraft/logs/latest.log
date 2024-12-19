@@ -140,3 +140,9 @@
 [19Dec2024 09:17:51.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades joined the game
 [19Dec2024 09:17:59.524] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9177ms or 183 ticks behind
 [19Dec2024 09:18:28.625] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[19Dec2024 09:49:53.262] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: WillOfTheBlades lost connection: You logged in from another location
+[19Dec2024 09:49:53.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades left the game
+[19Dec2024 09:49:53.309] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19Dec2024 09:50:06.752] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: WillOfTheBlades[/127.160.8.50:56201] logged in with entity id 7004 at (-327.87437628553454, 63.0, 2426.715303279888)
+[19Dec2024 09:50:06.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades joined the game
+[19Dec2024 09:50:09.070] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2373ms or 47 ticks behind

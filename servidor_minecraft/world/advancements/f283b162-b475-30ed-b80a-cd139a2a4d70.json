@@ -4509,15 +4509,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/armor_stand": {
-    "criteria": {
-      "has_stone_slab": "2024-12-19 09:28:54 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_minecart": "2024-12-19 09:21:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2024-12-19 09:28:54 +0000"
     },
     "done": true
   },
