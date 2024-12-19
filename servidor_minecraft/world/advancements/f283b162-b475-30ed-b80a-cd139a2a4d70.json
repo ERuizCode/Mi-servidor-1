@@ -4619,5 +4619,17 @@
     },
     "done": true
   },
+  "tombstone:recipes/from_decorative_grave": {
+    "criteria": {
+      "has_ingredient": "2024-12-19 23:44:30 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_decorative_grave": {
+    "criteria": {
+      "has_decorative_grave": "2024-12-19 23:44:30 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3700
 }
