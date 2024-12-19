@@ -74,3 +74,8 @@
 [19Dec2024 03:27:14.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesarelm238> [name:"ENTRADA CUEVA PARA EL NETHER", x:-130, y:105, z:323, dim:minecraft:the_nether]
 [19Dec2024 03:28:37.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesarelm238> [name:"portal nether", x:-31, y:105, z:324, dim:minecraft:the_nether]
 [19Dec2024 03:28:57.868] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6688ms or 133 ticks behind
+[19Dec2024 03:43:23.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades has completed the challenge [Almost Unkillable]
+[19Dec2024 03:43:23.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WillOfTheBlades was doomed to fall
+[19Dec2024 03:43:23.010] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for WillOfTheBlades with unique ID travelersbackpack.cake_19.12.2024-03.43.23.dat
+[19Dec2024 03:43:23.012] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -68 Y: -42 Z: 2369
+[19Dec2024 03:43:23.021] [Server thread/INFO] [tombstone/]: The player WillOfTheBlades has successfully been saved
